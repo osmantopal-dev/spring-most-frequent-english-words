@@ -1,9 +1,11 @@
-package com.osmantopal.entities;
+package com.osmantopal.config;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.context.annotation.Configuration;
 import org.telegram.telegrambots.meta.TelegramBotsApi;
 import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
+
+import com.osmantopal.bot.DailyWordBot;
 
 @Configuration
 public class TelegramBotConfig {

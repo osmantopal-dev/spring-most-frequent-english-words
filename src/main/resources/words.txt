@@ -1,0 +1,3391 @@
+english word,turkish meaning,word level
+time,zaman,A1
+person,kişi,A1
+year,yıl,A1
+way,yol,A1
+day,gün,A1
+thing,şey,A1
+man,adam,A1
+world,dünya,A1
+life,hayat,A1
+hand,el,A1
+part,parça,A1
+child,çocuk,A1
+eye,göz,A1
+woman,kadın,A1
+place,yer,A1
+week,hafta,A1
+case,durum,A1
+point,nokta,A1
+government,hükümet,A2
+company,şirket,A2
+number,sayı,A1
+group,grup,A1
+problem,sorun,A1
+fact,gerçek,A2
+be,olmak,A1
+have,sahip olmak,A1
+do,yapmak,A1
+say,söylemek,A1
+get,almak,A1
+make,yapmak,A1
+go,gitmek,A1
+know,bilmek,A1
+take,almak,A1
+see,görmek,A1
+come,gelmek,A1
+think,düşünmek,A1
+look,bakmak,A1
+want,istemek,A1
+give,vermek,A1
+use,kullanmak,A1
+find,bulmak,A1
+tell,söylemek,A1
+ask,sormak,A1
+work,çalışmak,A1
+seem,görünmek,A2
+feel,hissetmek,A1
+try,denemek,A1
+leave,ayrılmak,A1
+call,aramak,A1
+good,iyi,A1
+new,yeni,A1
+first,ilk,A1
+last,son,A1
+long,uzun,A1
+great,harika,A1
+little,küçük,A1
+own,kendi,A1
+other,diğer,A1
+old,eski,A1
+right,doğru,A1
+big,büyük,A1
+high,yüksek,A1
+different,farklı,A1
+small,küçük,A1
+large,geniş,A1
+next,sonraki,A1
+early,erken,A1
+young,genç,A1
+important,önemli,A1
+few,az,A1
+public,kamu,A2
+bad,kötü,A1
+same,aynı,A1
+able,yetenekli,A2
+better,daha iyi,A1
+best,en iyi,A1
+certain,kesin,A2
+clear,açık,A1
+complete,tam,A1
+dark,karanlık,A1
+difficult,zor,A1
+easy,kolay,A1
+economic,ekonomik,B1
+free,özgür,A1
+full,dolu,A1
+general,genel,A2
+happy,mutlu,A1
+human,insan,A1
+late,geç,A1
+likely,muhtemel,A2
+normal,normal,A1
+open,açık,A1
+possible,mümkün,A1
+real,gerçek,A1
+special,özel,A1
+strong,güçlü,A1
+sure,emin,A1
+true,doğru,A1
+white,beyaz,A1
+whole,bütün,A1
+wrong,yanlış,A1
+above,yukarı,A1
+across,karşısında,A1
+after,sonra,A1
+against,karşı,A1
+alone,yalnız,A1
+along,boyunca,A1
+already,zaten,A1
+also,ayrıca,A1
+always,her zaman,A1
+among,arasında,A1
+amount,miktar,A1
+angle,açı,A1
+animal,hayvan,A1
+answer,cevap,A1
+any,herhangi,A1
+appear,görünmek,A1
+apple,elma,A1
+arm,kol,A1
+army,ordu,A1
+art,sanat,A1
+ask,sormak,A1
+at,de/da,A1
+atom,atom,B1
+baby,bebek,A1
+back,geri,A1
+bad,kötü,A1
+ball,top,A1
+bank,banka,A1
+bar,çubuk,A1
+base,taban,A1
+basic,temel,A1
+basket,sepet,A1
+bat,yarasa,A1
+beach,sahil,A1
+bear,ayı,A1
+beat,yenmek,A1
+beauty,güzellik,A1
+bed,yatak,A1
+been,olunmuş,A1
+before,önce,A1
+begun,başlanmış,A1
+behind,arkasında,A1
+believe,inanmak,A1
+bell,zil,A1
+belong,ait olmak,A1
+below,aşağıda,A1
+bent,bükülmüş,A1
+beside,yanında,A1
+best,en iyi,A1
+better,daha iyi,A1
+between,arasında,A1
+big,büyük,A1
+bird,kuş,A1
+bit,parça,A1
+bite,ısırmak,A1
+black,siyah,A1
+blood,kan,A1
+blow,üflemek,A1
+blue,mavi,A1
+board,tahta,A1
+boat,tekne,A1
+body,vücut,A1
+bone,kemik,A1
+book,kitap,A1
+born,doğmuş,A1
+both,ikisi,A1
+bottom,dip,A1
+box,kutu,A1
+boy,erkek çocuk,A1
+branch,dal,A1
+brave,cesur,A1
+bread,ekmek,A1
+break,kırmak,A1
+bright,parlak,A1
+bring,getirmek,A1
+broad,geniş,A1
+broken,kırık,A1
+brother,erkek kardeş,A1
+brought,getirilmiş,A1
+brown,kahverengi,A1
+build,inşa etmek,A1
+burn,yakmak,A1
+business,iş,A1
+but,ama,A1
+buy,satın almak,A1
+by,tarafından,A1
+call,aramak,A1
+came,geldi,A1
+can,-ebilmek,A1
+capital,başkent,A1
+captain,kaptan,A1
+car,araba,A1
+card,kart,A1
+care,bakım,A1
+carry,taşımak,A1
+case,durum,A1
+cat,kedi,A1
+catch,yakalamak,A1
+cattle,sığır,A1
+cause,neden,A1
+cell,hücre,B1
+cent,sent,A1
+center,merkez,A1
+century,yüzyıl,A1
+certain,kesin,A2
+chair,sandalye,A1
+chance,şans,A1
+change,değişmek,A1
+character,karakter,A1
+charge,ücret,A1
+chart,grafik,A1
+check,kontrol etmek,A1
+chief,şef,A1
+child,çocuk,A1
+children,çocuklar,A1
+choose,seçmek,A1
+circle,daire,A1
+city,şehir,A1
+class,sınıf,A1
+clean,temiz,A1
+clear,açık,A1
+climb,tırmanmak,A1
+close,kapatmak,A1
+cloth,kumaş,A1
+cloud,bulut,A1
+coast,kıyı,A1
+cold,soğuk,A1
+collect,toplamak,A1
+color,renk,A1
+column,sütun,A1
+come,gelmek,A1
+common,yaygın,A1
+company,şirket,A2
+compare,karşılaştırmak,A1
+complete,tam,A1
+condition,koşul,A1
+connect,bağlamak,A1
+consider,düşünmek,A1
+consonant,sessiz harf,B1
+contain,içermek,A1
+continue,devam etmek,A1
+control,kontrol,A1
+cook,pişirmek,A1
+cool,serin,A1
+copy,kopya,A1
+corn,mısır,A1
+corner,köşe,A1
+correct,doğru,A1
+cost,mal olmak,A1
+cotton,pamuk,A1
+could,-ebilirdi,A1
+count,saymak,A1
+country,ülke,A1
+course,kurs,A1
+cover,örtmek,A1
+cow,inek,A1
+create,oluşturmak,A1
+crop,hasat,A1
+cross,geçmek,A1
+crowd,kalabalık,A1
+cry,ağlamak,A1
+current,şimdiki,A1
+cut,kesmek,A1
+dad,baba,A1
+daddy,baba,A1
+dance,dans etmek,A1
+danger,tehlike,A1
+dark,karanlık,A1
+date,tarih,A1
+daughter,kız evlat,A1
+day,gün,A1
+dead,ölü,A1
+deal,anlaşma,A1
+dear,sevgili,A1
+death,ölüm,A1
+decide,karar vermek,A1
+decimal,ondalık,B1
+deep,derin,A1
+degree,derece,A1
+depend,bağlı olmak,A1
+describe,tanımlamak,A1
+desert,çöl,A1
+design,tasarım,A1
+detail,detay,A1
+determine,belirlemek,A1
+develop,geliştirmek,A1
+dictionary,sözlük,A1
+did,yaptı,A1
+die,ölmek,A1
+differ,farklı olmak,A1
+difficult,zor,A1
+direct,doğrudan,A1
+discover,keşfetmek,A1
+distance,mesafe,A1
+divide,bölmek,A1
+division,bölünme,A1
+do,yapmak,A1
+doctor,doktor,A1
+does,yapar,A1
+dog,köpek,A1
+dollar,dolar,A1
+done,yapılmış,A1
+door,kapı,A1
+double,çift,A1
+down,aşağı,A1
+draw,çizmek,A1
+dream,rüya,A1
+dress,elbise,A1
+drink,içmek,A1
+drive,sürmek,A1
+drop,damla,A1
+dry,kuru,A1
+duck,ördek,A1
+during,sırasında,A1
+each,her,A1
+ear,kulak,A1
+early,erken,A1
+earn,kazanmak,A1
+earth,dünya,A1
+ease,kolaylık,A1
+east,doğu,A1
+eat,yemek,A1
+edge,kenar,A1
+effect,etki,A1
+egg,yumurta,A1
+eight,sekiz,A1
+either,ya da,A1
+electric,elektrikli,A1
+element,element,B1
+else,başka,A1
+end,son,A1
+enemy,düşman,A1
+energy,enerji,A1
+engine,motor,A1
+enough,yeterli,A1
+enter,girmek,A1
+equal,eşit,A1
+equation,denklem,B1
+especially,özellikle,A2
+even,hatta,A1
+evening,akşam,A1
+event,olay,A1
+ever,hiç,A1
+every,her,A1
+everybody,herkes,A1
+everyone,herkes,A1
+everything,her şey,A1
+everywhere,her yer,A1
+exact,tam,A1
+example,örnek,A1
+except,hariç,A1
+excited,heyecanlı,A1
+exciting,heyecan verici,A1
+exercise,egzersiz,A1
+expect,beklemek,A1
+experience,deneyim,A1
+experiment,deney,B1
+explain,açıklamak,A1
+express,ifade etmek,A1
+eye,göz,A1
+face,yüz,A1
+factory,fabrika,A1
+fail,başarısız olmak,A1
+fall,düşmek,A1
+family,aile,A1
+famous,ünlü,A1
+far,uzak,A1
+farm,çiftlik,A1
+fast,hızlı,A1
+father,baba,A1
+fear,korku,A1
+feed,beslemek,A1
+feel,hissetmek,A1
+feet,ayaklar,A1
+fell,düştü,A1
+felt,hissedildi,A1
+few,az,A1
+field,alan,A1
+fig,incir,A1
+fight,kavga etmek,A1
+figure,şekil,A1
+fill,doldurmak,A1
+film,film,A1
+final,son,A1
+find,bulmak,A1
+fine,iyi,A1
+finger,parmak,A1
+finish,bitirmek,A1
+fire,ateş,A1
+first,ilk,A1
+fish,balık,A1
+fit,uymak,A1
+five,beş,A1
+fix,onarmak,A1
+flag,bayrak,A1
+flat,düz,A1
+floor,zemin,A1
+flow,akmak,A1
+flower,çiçek,A1
+fly,uçmak,A1
+follow,takip etmek,A1
+food,yemek,A1
+foot,ayak,A1
+for,için,A1
+force,güç,A1
+forest,orman,A1
+form,form,A1
+forward,ileri,A1
+found,kurulmuş,A1
+four,dört,A1
+fraction,kesir,B1
+free,özgür,A1
+fresh,taze,A1
+friend,arkadaş,A1
+from,den/dan,A1
+front,ön,A1
+fruit,meyve,A1
+full,dolu,A1
+fun,eğlence,A1
+funny,komik,A1
+furniture,mobilya,A1
+further,daha fazla,A1
+future,gelecek,A1
+game,oyun,A1
+garden,bahçe,A1
+gas,gaz,A1
+gave,verdi,A1
+general,genel,A1
+get,almak,A1
+girl,kız,A1
+give,vermek,A1
+glass,cam,A1
+go,gitmek,A1
+gold,altın,A1
+gone,gitti,A1
+good,iyi,A1
+got,elde etti,A1
+government,hükümet,A1
+grass,çim,A1
+great,harika,A1
+green,yeşil,A1
+grew,büyüdü,A1
+ground,zemin,A1
+group,grup,A1
+grow,büyümek,A1
+guess,tahmin etmek,A1
+guide,rehber,A1
+gun,silah,A1
+had,vardı,A1
+hair,saç,A1
+half,yarım,A1
+hand,el,A1
+happen,olmak,A1
+happy,mutlu,A1
+hard,sert,A1
+has,var,A1
+hat,şapka,A1
+have,sahip olmak,A1
+he,o,A1
+head,baş,A1
+hear,duymak,A1
+heart,kalp,A1
+heat,ısı,A1
+heavy,ağır,A1
+held,tutuldu,A1
+help,yardım,A1
+her,onu,A1
+here,burada,A1
+high,yüksek,A1
+hill,tepe,A1
+him,onu,A1
+his,onun,A1
+history,tarih,A1
+hit,vurmak,A1
+hold,tutmak,A1
+hole,delik,A1
+home,ev,A1
+hope,umut,A1
+horse,at,A1
+hot,sıcak,A1
+hour,saat,A1
+house,ev,A1
+how,nasıl,A1
+however,ancak,A1
+huge,kocaman,A1
+human,insan,A1
+hundred,yüz,A1
+hungry,aç,A1
+hurry,acele etmek,A1
+hurt,incitmek,A1
+husband,koca,A1
+I,ben,A1
+ice,buz,A1
+idea,fikir,A1
+if,eğer,A1
+important,önemli,A1
+in,içinde,A1
+inch,inç,A1
+include,dahil etmek,A1
+increase,artırmak,A1
+indeed,gerçekten,A2
+indicate,göstermek,A2
+industry,endüstri,A2
+information,bilgi,A1
+insect,böcek,A1
+inside,içeri,A1
+instead,yerine,A1
+instrument,alet,A2
+interest,ilgi,A1
+interesting,ilginç,A1
+into,içine,A1
+invent,icat etmek,A2
+iron,demir,A1
+is,dir,A1
+island,ada,A1
+it,o,A1
+its,onun,A1
+itself,kendisi,A1
+jacket,ceket,A1
+job,iş,A1
+join,katılmak,A1
+jumped,atladi,A1
+just,sadece,A1
+keep,tutmak,A1
+kept,tutuldu,A1
+key,anahtar,A1
+kill,öldürmek,A1
+kind,tür,A1
+king,kral,A1
+knew,biliyordu,A1
+know,bilmek,A1
+known,bilinen,A1
+lady,bayan,A1
+lake,göl,A1
+land,arazi,A1
+language,dil,A1
+large,geniş,A1
+last,son,A1
+late,geç,A1
+laugh,gülmek,A1
+law,kanun,A1
+lay,yatırmak,A1
+lead,kurşun,A1
+learn,öğrenmek,A1
+least,en az,A1
+leave,ayrılmak,A1
+led,yönlendirildi,A1
+left,sol,A1
+leg,bacak,A1
+length,uzunluk,A1
+less,daha az,A1
+let,izin vermek,A1
+letter,mektup,A1
+level,seviye,A1
+lie,yalan söylemek,A1
+life,hayat,A1
+lift,kaldırmak,A1
+light,ışık,A1
+like,beğenmek,A1
+line,çizgi,A1
+lion,aslan,A1
+lip,dudak,A1
+list,liste,A1
+listen,dinlemek,A1
+little,küçük,A1
+live,yaşamak,A1
+locate,konumlandırmak,A2
+log,kütük,A1
+long,uzun,A1
+look,bakmak,A1
+lost,kayıp,A1
+lot,çok,A1
+love,aşk,A1
+low,düşük,A1
+machine,makine,A1
+made,yapılmış,A1
+main,ana,A1
+major,büyük,A1
+make,yapmak,A1
+man,adam,A1
+many,çok,A1
+map,harita,A1
+mark,işaret,A1
+market,pazar,A1
+mass,kütle,A2
+master,usta,A1
+match,eşleşmek,A1
+material,malzeme,A1
+matter,konu,A1
+may,ebilir,A1
+me,beni,A1
+mean,anlamına gelmek,A1
+measure,ölçmek,A1
+meat,et,A1
+meet,buluşmak,A1
+melody,melodi,A2
+men,erkekler,A1
+metal,metal,A1
+method,yöntem,A2
+middle,orta,A1
+might,ebilir,A1
+mile,mil,A1
+milk,süt,A1
+million,milyon,A1
+mind,akıl,A1
+mine,benimki,A1
+minute,dakika,A1
+miss,kaçırmak,A1
+modern,modern,A1
+molecule,molekül,B1
+moment,an,A1
+money,para,A1
+month,ay,A1
+moon,ay,A1
+more,daha,A1
+morning,sabah,A1
+most,en,A1
+mother,anne,A1
+motion,hareket,A1
+mountain,dağ,A1
+mouth,ağız,A1
+move,taşınmak,A1
+movement,haraket,A1
+much,çok,A1
+music,müzik,A1
+must,zorunlu,A1
+my,benim,A1
+name,isim,A1
+nation,ulus,A1
+natural,doğal,A1
+nature,doğa,A1
+near,yakın,A1
+necessary,gerekli,A1
+need,ihtiyaç,A1
+never,asla,A1
+new,yeni,A1
+next,sonraki,A1
+nice,güzel,A1
+night,gece,A1
+nine,dokuz,A1
+no,hayır,A1
+none,hiçbiri,A1
+nor,ne de,A1
+north,kuzey,A1
+nose,burun,A1
+not,değil,A1
+note,not,A1
+nothing,hiçbir şey,A1
+notice,fark etmek,A1
+noun,isim,A1
+now,şimdi,A1
+number,sayı,A1
+numeral,rakam,A1
+object,nesne,A1
+observe,gözlemlemek,A2
+ocean,okyanus,A1
+of,-nin,A1
+off,kapalı,A1
+offer,teklif,A1
+office,ofis,A1
+often,sık sık,A1
+oh,ah,A1
+oil,yağ,A1
+old,eski,A1
+on,üzerinde,A1
+once,bir kez,A1
+one,bir,A1
+only,sadece,A1
+open,açık,A1
+operate,çalıştırmak,A2
+opinion,fikir,A1
+or,veya,A1
+order,sipariş,A1
+organ,organ,A1
+original,orijinal,A1
+other,diğer,A1
+our,bizim,A1
+out,dışarı,A1
+over,üzerinde,A1
+own,kendi,A1
+oxygen,oksijen,B1
+page,sayfa,A1
+paint,boya,A1
+pair,çift,A1
+paper,kağıt,A1
+paragraph,paragraf,A1
+park,park,A1
+part,parça,A1
+particular,belirli,A2
+party,parti,A1
+pass,geçmek,A1
+past,geçmiş,A1
+pattern,desen,A1
+pay,ödemek,A1
+people,insanlar,A1
+per,başına,A1
+perhaps,belki,A1
+period,dönem,A1
+person,kişi,A1
+phrase,ifade,A1
+pick,seçmek,A1
+picture,resim,A1
+piece,parça,A1
+pig,domuz,A1
+pilot,pilot,A1
+pitch,zift,A1
+place,yer,A1
+plain,düz,A1
+plane,uçak,A1
+planet,gezegen,A1
+plant,bitki,A1
+play,oynamak,A1
+please,lütfen,A1
+plural,çoğul,A1
+poem,şiir,A1
+point,nokta,A1
+pole,kutup,A1
+poor,fakir,A1
+position,pozisyon,A1
+possible,mümkün,A1
+post,posta,A1
+pot,tencere,A1
+pound,sterlin,A1
+power,güç,A1
+practice,pratik,A1
+prepare,hazırlamak,A1
+present,hediye,A1
+press,basmak,A1
+pretty,güzel,A1
+price,fiyat,A1
+print,yazdırmak,A1
+probably,muhtemelen,A1
+problem,sorun,A1
+process,süreç,A2
+produce,üretmek,A1
+product,ürün,A1
+production,üretim,A1
+program,program,A1
+proof,kanıt,A2
+proper,uygun,A1
+property,mülk,A1
+protect,korumak,A1
+proud,gururlu,A1
+prove,kanıtlamak,A2
+provide,sağlamak,A1
+pull,çekmek,A1
+push,itmek,A1
+put,koymak,A1
+quantum,kuantum,C2
+query,sorgu,B2
+quench,söndürmek,C1
+quilt,yorgan,B1
+quota,kota,B2
+radical,radikal,B2
+ransom,fidye,C1
+ratify,onaylamak,C1
+ravenous,çok aç,C2
+rebuke,azarlamak,C1
+recede,geri çekilmek,C1
+recipient,alıcı,B2
+reckless,pervasız,C1
+reconcile,uzlaştırmak,B2
+recruit,işe almak,B1
+redeem,kurtarmak,C1
+refrain,kaçınmak,B2
+regime,rejim,C2
+reimburse,geri ödemek,B2
+relentless,acımasız,C2
+relish,zevk almak,C1
+remnant,kalıntı,C1
+renovate,yenilemek,B2
+repeal,yürürlükten kaldırmak,C1
+reprisal,baskın,C2
+reside,ikamet etmek,B2
+resilient,esnek,C1
+retaliate,intikam almak,C2
+rift,çatlak,C1
+rigorous,sıkı,C1
+ruthless,acımasız,C2
+sabotage,sabotaj,B2
+sagacious,bilge,C2
+salvage,kurtarmak,B2
+sanctuary,sığınak,C1
+saturate,doyurmak,C1
+savage,vahşi,C1
+scarcity,kıtlık,B2
+scoff,alay etmek,C1
+scrutiny,inceleme,B2
+segregate,ayırmak,C1
+sensation,his,C1
+serene,sakin,C1
+shard,kırık parça,C2
+sheer,tamamen,C1
+shrewd,zeki,C1
+shun,kaçınmak,C1
+simmer,kaynamak,B1
+skirmish,çatışma,C1
+slither,kayarak gitmek,C1
+smuggle,kaçakçılık yapmak,B2
+snare,tuzak,C1
+sober,ayık,B2
+solitude,yalnızlık,C1
+sporadic,seyrek,C1
+squander,boşa harcamak,C1
+stagnant,durgun,C1
+stamina,dayanıklılık,B2
+staple,temel,B2
+stealth,gizlilik,C1
+stereotype,kalıp yargı,B2
+stifle,boğmak,C1
+strenuous,yorucu,C1
+strife,çekişme,C1
+subside,yatışmak,C1
+succulent,sulu,C2
+sullen,somurtkan,C1
+summit,zirve,B2
+superfluous,gereksiz,C1
+suppress,bastırmak,B2
+surge,dalgalanma,B2
+surmise,tahmin etmek,C1
+surrender,teslim olmak,B1
+susceptible,duyarlı,B2
+swarm,sürü,B1
+sycophant,dalkavuk,C2
+tacit,zımni,C1
+tangible,somut,B2
+tantalize,tahrik etmek,C2
+tardy,geç,B1
+taunt,alay etmek,C1
+teem,kaynaşmak,C1
+temperament,mizaç,B2
+tenacious,azimli,C1
+tether,bağlamak,C1
+thrifty,tutumlu,B1
+thrive,gelişmek,B2
+thwart,engellemek,C1
+tirade,ateşli konuşma,C2
+tolerate,hoşgörmek,B1
+torrent,sel,B1
+tractable,uysal,C2
+transient,geçici,B2
+traverse,katetmek,C1
+treachery,hainlik,C1
+tremor,titreme,C1
+tribulation,çile,C2
+trifle,önemsiz şey,C1
+truncate,kısaltmak,C1
+tumult,kargaşa,C1
+turbulent,çalkantılı,C1
+tycoon,kodaman,C2
+uncanny,esrarengiz,C1
+uncouth,kaba,C1
+undermine,baltalamak,B2
+undulate,dalgalanmak,C1
+unearth,ortaya çıkarmak,C1
+unravel,çözmek,C1
+upbringing,yetiştirme,B2
+upsurge,artış,C1
+usurp,gaspetmek,C2
+utmost,azami,B2
+vagrant,serseri,C1
+vandal,vandal,B2
+vanguard,öncü,C1
+vanish,yok olmak,B1
+veer,sapmak,C1
+vehement,şiddetli,C1
+venerate,hürmet etmek,C2
+verge,eşik,C1
+vex,sinirlendirmek,C1
+vigilant,uyanık,C1
+vile,adi,C1
+vindicate,aklamak,C1
+vintage,eski ve kaliteli,C1
+virulent,zehirli,C2
+vitality,yaşam gücü,B2
+vivid,canlı,B2
+vocation,meslek,B2
+vow,yemin etmek,B1
+wade,sığ suda yürümek,C1
+waive,vazgeçmek,C1
+wan,solgun,C1
+wane,azalmak,C1
+wary,tedbirli,B2
+weary,yorgun,B1
+whim,kapris,C1
+wholesome,sağlıklı,B1
+wield,kullanmak,B2
+wilt,solmak,C1
+wince,ürpermek,C1
+wither,solmak,C1
+wrath,öfke,C1
+wreak,acısını çıkarmak,C2
+wretched,sefil,C1
+writhe,kıvranmak,C1
+yearn,arzulamak,C1
+yield,verim,B1
+zeal,şevk,B2
+zenith,zirve,C1
+zest,heves,C1
+abandon,terk etmek,B2
+abrupt,ani,B2
+absurd,saçma,C1
+acclaim,övgü,C1
+accord,uyum,B2
+acute,şiddetli,C1
+adhere,yapışmak,B2
+adjacent,bitişik,B2
+adverse,olumsuz,C1
+affluent,zengin,C1
+agile,çevik,B2
+alien,yabancı,B1
+allege,iddia etmek,C1
+allocate,ayırmak,B2
+amateur,amatör,B1
+ambiguous,belirsiz,B2
+amend,düzeltmek,B2
+ample,bol,B2
+analogous,benzer,C1
+anguish,acı,C2
+animate,canlı,C1
+antique,antika,B1
+appalling,korkunç,C1
+arbitrary,keyfi,C1
+arid,kurak,C1
+aroma,aroma,B2
+ascend,yükselmek,C1
+ascent,yükseliş,C1
+aspire,arzulamak,C1
+assent,onay,C1
+assert,iddia etmek,B2
+assimilate,özümsemek,C1
+atrocity,vahşet,C2
+attain,elde etmek,B2
+attire,kıyafet,B1
+audacious,cesur,C2
+austere,sade,C1
+authentic,otantik,B2
+autonomous,özerk,C1
+avalanche,çığ,C1
+avert,önlemek,C1
+avid,düşkün,C1
+awkward,garip,B1
+balmy,ılık,C1
+banal,sıradan,C1
+barren,çorak,C1
+barter,takas,B2
+beckon,işaret etmek,C1
+beguile,baştan çıkarmak,C2
+belated,gecikmiş,C1
+benevolent,iyiliksever,C1
+berserk,çılgın,C2
+bias,önyargı,B2
+bizarre,tuhaf,B2
+bleak,kasvetli,C1
+bliss,mutluluk,C1
+blunder,hata,B2
+bog,bataklık,C1
+boisterous,gürültülü,C1
+bolster,desteklemek,C1
+brawl,kavga,B2
+brink,eşik,C1
+brittle,kırılgan,C1
+browse,göz atmak,B1
+brutal,vahşi,B2
+bungle,berbat etmek,C1
+buoyant,yüzer,C1
+burly,iri,C1
+cajole,kandırmak,C2
+calamity,felaket,C2
+candid,açık sözlü,C1
+canny,akıllı,C1
+capricious,kararsız,C2
+catastrophe,felaket,B2
+cautious,tedbirli,B1
+cavity,boşluk,B2
+censor,sansürlemek,B2
+chaotic,kaotik,B2
+chasm,uçurum,C1
+cherish,değer vermek,B2
+chronic,kronik,B2
+circuitous,dolambaçlı,C1
+clarity,berraklık,B2
+clasp,tokalamak,C1
+climax,doruk,B2
+clumsy,sakar,B1
+coarse,kaba,B2
+coerce,zorlamak,C1
+coherent,tutarlı,B2
+collaborate,işbirliği yapmak,B2
+colossal,devasa,C1
+commence,başlamak,B2
+commend,övmek,C1
+commodity,mal,B2
+compassion,şefkat,B2
+compel,zorlamak,B2
+competent,yeterli,B2
+comply,uymak,B2
+comprehend,anlamak,B1
+conceal,gizlemek,B1
+conceive,kavramak,C1
+concise,özlü,B2
+concur,aynı fikirde olmak,C1
+condemn,kınamak,B2
+condense,yoğunlaştırmak,C1
+confer,görüşmek,C1
+confide,güvenmek,C1
+conform,uymak,B2
+congested,tıkalı,C1
+conjure,çağırmak,C1
+conscientious,vicdanlı,C1
+consecutive,ardışık,B2
+console,teselli etmek,C1
+conspicuous,gözle görülür,B2
+constrain,zorlamak,C1
+contaminate,kirletmek,B2
+contemplate,düşünmek,C1
+contempt,küçümseme,C1
+contend,iddia etmek,C1
+contradict,çelişmek,B2
+contrive,uydurmak,C1
+convene,toplanmak,C1
+converge,birleşmek,C1
+convict,hükümlü,B2
+copious,bol,C1
+cordial,samimi,C1
+corrode,aşındırmak,C1
+counteract,karşı koymak,C1
+courteous,kibar,B2
+covet,imrenmek,C1
+coy,utangaç,C1
+cram,tıka basa doldurmak,C1
+cranky,huysuz,C1
+credible,inandırıcı,B2
+crevice,çatlak,C1
+cripple,sakatlamak,C1
+criterion,ölçüt,B2
+crucial,kritik,B2
+crude,ham,B2
+culminate,sonuçlanmak,C1
+culprit,suçlu,B2
+cultivate,yetiştirmek,B2
+cumbersome,hantal,C1
+curb,kontrol altına almak,B2
+curt,kısa ve kaba,C1
+damp,nemli,B1
+dangle,sallandırmak,C1
+daring,cesur,B2
+dawdle,oyalanmak,C1
+dazzle,göz kamaştırmak,C1
+deceased,merhum,C1
+decisive,kesin,B2
+decree,kararname,C1
+deduce,sonuç çıkarmak,C1
+deem,addetmek,C1
+defect,kusur,B2
+defer,ertelemek,C1
+defiant,isyankar,C1
+deft,ustalıklı,C1
+degrade,aşağılamak,C1
+delegate,temsilci,B2
+deliberate,kasıtlı,B2
+delicate,narin,B1
+deluge,sel,C1
+demise,ölüm,C1
+demolish,yıkmak,B2
+denounce,kınamak,C1
+dense,yoğun,B1
+depict,betimlemek,B2
+deploy,konuşlandırmak,B2
+deprive,mahrum etmek,B2
+derived,türetilmiş,B2
+desolate,ıssız,C1
+detach,ayırmak,B2
+deter,caydırmak,C1
+detrimental,zararlı,C1
+devastating,yıkıcı,C1
+devious,sinsi,C1
+devour,yutmak,C1
+diligent,çalışkan,B2
+diminish,küçültmek,B2
+discreet,dikkatli,C1
+disdain,küçümseme,C1
+dismal,kasvetli,C1
+disperse,dağıtmak,C1
+dispute,tartışma,B1
+disrupt,aksatmak,B2
+dissipate,dağıtmak,C1
+distort,çarpıtmak,B2
+diverse,çeşitli,B1
+divert,yönlendirmek,B2
+divine,ilahi,C1
+dizzy,başı dönen,B1
+docile,uysal,C1
+dodge,sıçramak,B1
+dogmatic,bağnaz,C1
+dominant,baskın,B1
+dormant,uyuyan,C1
+doubtful,şüpheli,B1
+drab,soluk,C1
+drain,boşaltmak,B1
+dread,korku,B2
+dreary,kasvetli,C1
+drift,sürüklenmek,B1
+drowsy,uykulu,B1
+dubious,şüpheli,B2
+dull,sıkıcı,B1
+dumbfound,şaşırtmak,C1
+durable,dayanıklı,B2
+dwindle,azalmak,C1
+eager,hevesli,B1
+earnest,ciddi,B2
+eccentric,eksantrik,B2
+eclipse,gölgelemek,C1
+edible,yenilebilir,B1
+eerie,ürkütücü,C1
+efficient,verimli,B1
+elaborate,ayrıntılı,B2
+elated,neşeli,C1
+elegant,şık,B1
+elicit,ortaya çıkarmak,C1
+eloquent,etkileyici,C1
+elusive,kaçamak,C1
+embark,binmek,B2
+embed,gömülmek,B2
+embrace,kucaklamak,B1
+eminent,seçkin,C1
+emit,yaymak,B2
+empathy,empati,B2
+enchant,büyülemek,C1
+endeavor,çaba göstermek,B2
+endorse,onaylamak,B2
+endure,dayanmak,B1
+enforce,uygulamak,B2
+engross,kendine bağlamak,C1
+enhance,artırmak,B1
+enigma,bilinmezlik,C1
+enlighten,aydınlatmak,C1
+enrage,öfkelendirmek,C1
+enrich,zenginleştirmek,B2
+ensue,izlemek,C1
+entail,gerektirmek,C1
+entice,cezbetmek,C1
+entrust,emanet etmek,C1
+envious,kıskanç,B1
+ephemeral,geçici,C1
+equitable,adil,C1
+eradicate,kökten yok etmek,C1
+err,hata yapmak,C1
+erupt,patlamak,B1
+escalate,tırmandırmak,B2
+escort,refakat etmek,B1
+esteem,itibar,B2
+evade,kaçınmak,B2
+evaporate,buharlaşmak,B1
+evoke,çağrıştırmak,C1
+exaggerate,abartmak,B1
+exasperate,çileden çıkarmak,C1
+excavate,kazmak,B2
+exemplary,örnek,C1
+exempt,muaf,C1
+exert,uğraşmak,B2
+exhale,nefes vermek,B1
+exhilarate,neşelendirmek,C1
+exile,sürgün,B2
+exorbitant,aşırı pahalı,C1
+expedite,hızlandırmak,C1
+expire,sona ermek,B2
+explicit,açık,B2
+exploit,sömürmek,B2
+exquisite,olağanüstü,C1
+extinct,nesli tükenmiş,B1
+extinguish,söndürmek,B2
+extract,çıkarmak,B1
+extravagant,savurgan,B2
+fabricate,uydurmak,C1
+facet,yön,B2
+faint,soluk,B1
+fake,sahte,B1
+falter,tereddüt etmek,C1
+famine,kıtlık,B2
+fancy,beğenmek,B1
+fare,ücret,B1
+fascinate,büyülemek,B2
+fasten,sabitlemek,B1
+fathom,anlamak,C1
+fatigue,yorgunluk,B2
+feasible,uygulanabilir,B2
+feeble,zayıf,B2
+ferocious,vahşi,C1
+fervent,şiddetli,C1
+fickle,kararsız,C1
+fierce,şiddetli,B1
+filthy,pis,B1
+finite,sınırlı,B2
+flair,yetenek,C1
+flatter,pohpohlamak,B1
+flaw,kusur,B1
+flee,kaçmak,B1
+flexible,esnek,B1
+flimsy,dayanıksız,C1
+flourish,gelişmek,B2
+fluctuate,dalgalanmak,B2
+foe,düşman,C1
+foolish,aptal,B1
+forbid,yasaklamak,B1
+forecast,tahmin etmek,B1
+forge,sahtesini yapmak,B2
+forlorn,terkedilmiş,C1
+formidable,zorlu,C1
+foster,teşvik etmek,B2
+foul,pis,B1
+fraction,kesir,B1
+fragile,kırılgan,B1
+frank,açık sözlü,B2
+fraud,sahtekarlık,B2
+frenzy,çılgınlık,C1
+fret,endişelenmek,C1
+friction,sürtünme,B2
+frigid,buz gibi,C1
+fringe,kenar,B2
+frugal,tutumlu,C1
+fugitive,kaçak,C1
+fumble,beceriksizce yapmak,C1
+furious,öfkeli,B2
+futile,boşuna,C1
+fuzzy,bulanık,B1
+gadget,alet,B1
+gale,fırtına,C1
+gallant,cesur,C1
+gap,boşluk,B1
+garble,çarpıtmak,C1
+gasp,nefesi kesilmek,B2
+gaunt,zayıf,C1
+generous,cömert,B1
+genuine,gerçek,B1
+germ,mikrop,B1
+ghastly,korkunç,C1
+gigantic,devasa,B2
+glare,öfkeyle bakmak,B2
+gleam,parıltı,C1
+glide,kaymak,C1
+glimmer,zayıf ışık,C1
+glimpse,göz atmak,B2
+glitter,parıldamak,B1
+gloomy,kasvetli,B2
+glow,parlamak,B1
+glutton,obur,C1
+gorgeous,muhteşem,B1
+gossip,dedikodu,B1
+graceful,zarif,B1
+gradual,kademeli,B2
+grandiose,görkemli,C1
+grapple,uğraşmak,C1
+grasp,kavramak,B1
+grateful,minnettar,B1
+gratify,memnun etmek,C1
+grave,ciddi,B2
+graze,otlamak,C1
+gregarious,sosyal,C1
+grief,keder,B2
+grim,umutsuz,C1
+grin,sırıtmak,B1
+grind,öğütmek,B1
+grip,kavramak,B1
+groan,inlemek,B2
+groom,temizlemek,B1
+grope,yoklamak,C1
+gross,kaba,B1
+grumble,söylenmek,B2
+grunt,homurdanmak,B1
+guarantee,garanti,B1
+guile,hile,C1
+gullible,saf,B2
+gush,coşmak,C1
+hack,kesmek,B1
+haggard,bitkin,C1
+halt,durdurmak,B2
+hamper,engellemek,B2
+handy,kullanışlı,B1
+haphazard,rastgele,C1
+harass,taciz etmek,B2
+harbor,barındırmak,B2
+hardy,dayanıklı,C1
+harmony,ahenk,B1
+harsh,sert,B1
+hasty,aceleci,B2
+hatch,yumurtadan çıkmak,B1
+haunt,musallat olmak,C1
+haven,sığınak,C1
+havoc,kaos,C1
+hazard,tehlike,B2
+hazy,bulanık,C1
+headstrong,inatçı,C1
+heal,iyileşmek,B1
+heave,kaldırmak,C1
+hectic,yoğun,B2
+heed,dikkat etmek,C1
+heinous,iğrenç,C1
+herald,haberci,C1
+herd,sürü,B1
+hesitate,tereddüt etmek,B1
+hibernate,kış uykusuna yatmak,B2
+hideous,çirkin,C1
+hike,yürüyüş,B1
+hilarious,çok komik,B2
+hinder,engel olmak,B2
+hoard,biriktirmek,C1
+hoarse,boğuk,C1
+hoist,kaldırmak,C1
+hollow,içi boş,B1
+homage,hürmet,C1
+homicide,cinayet,C1
+horde,kalabalık,C1
+horrendous,korkunç,C1
+hostile,düşmanca,B2
+hover,havada durmak,B2
+howl,ulumak,B1
+huddle,toplanmak,C1
+humble,mütevazı,B1
+humiliate,aşağılamak,B2
+hurl,fırlatmak,B2
+hurry,acele etmek,A1
+hush,sessizlik,C1
+hustle,acele ettirmek,C1
+hygiene,sağlık kuralları,B1
+hypocrite,ikiyüzlü,B2
+hysterical,isterik,B2
+idealist,idealist,B2
+idle,boş,B1
+ignite,tutuşturmak,B2
+ignorant,cahil,B1
+illuminate,aydınlatmak,B2
+illusion,yanılsama,B2
+immaculate,lekesiz,C1
+immense,muazzam,B2
+immerse,daldırmak,C1
+imminent,yakın,C1
+immune,bağışık,B2
+impair,zarar vermek,C1
+impart,aktarmak,C1
+impeccable,kusursuz,C1
+impede,engellemek,C1
+impending,yaklaşan,C1
+imperative,zorunlu,B2
+imperial,imparatorluk,C1
+impetuous,düşüncesiz,C1
+implement,uygulamak,B2
+implicate,suç ortağı yapmak,C1
+impose,dayatmak,B2
+impoverish,yoksullaştırmak,C1
+impromptu,doğaçlama,C1
+impulse,dürtü,B2
+incentive,teşvik,B2
+incessant,aralıksız,C1
+incite,kışkırtmak,C1
+incline,eğilim,B2
+incoherent,tutarsız,C1
+incompatible,uyumsuz,B2
+inconspicuous,gözden uzak,C1
+incorporate,birleştirmek,B2
+incur,maruz kalmak,C1
+indebted,minnettar,C1
+indifferent,kayıtsız,B2
+indigenous,yerli,B2
+indignant,öfkeli,C1
+indispensable,vazgeçilmez,B2
+induce,ikna etmek,C1
+inept,beceriksiz,C1
+inevitable,kaçınılmaz,B2
+infamous,rezil,C1
+inflict,vermek (acı),C1
+ingenious,zeki,C1
+inhabit,yaşamak,B2
+inhibit,engellemek,C1
+initiate,başlatmak,B2
+inject,enjekte etmek,B2
+innate,doğuştan gelen,C1
+innovate,yenilik yapmak,B2
+inquire,sormak,B1
+insane,çılgın,B1
+inscribe,yazmak,C1
+insidious,sinsi,C1
+insight,anlayış,B2
+insipid,tatsız,C1
+instigate,kışkırtmak,C1
+instinct,içgüdü,B1
+insulate,yalıtmak,C1
+intact,bozulmamış,B2
+integrate,bütünleştirmek,B2
+intelligible,anlaşılır,C1
+intense,yoğun,B1
+intercept,kesmek,C1
+interfere,karışmak,B1
+intermittent,aralıklı,C1
+intersect,kesişmek,C1
+intimidate,gözünü korkutmak,B2
+intricate,karmaşık,C1
+intrigue,entrika,C1
+invade,işgal etmek,B1
+invaluable,paha biçilmez,C1
+invoke,çağırmak,C1
+irate,öfkeli,C1
+ironic,ironik,B2
+irrational,akıl dışı,B2
+irrelevant,alakasız,B2
+irresistible,karşı konulmaz,C1
+irritate,sinirlendirmek,B1
+isolate,tecrit etmek,B1
+itch,kaşınmak,B1
+jab,dürtmek,C1
+jeopardize,tehlikeye atmak,C1
+jerk,sarsmak,B1
+jostle,itmek,C1
+jot,not almak,C1
+jubilant,neşeli,C1
+judicious,akıllı,C1
+jumble,karmaşa,C1
+jumpy,gergin,C1
+juncture,kavşak,C1
+justified,haklı,B2
+juvenile,genç,B2
+keen,hevesli,B1
+kneel,diz çökmek,B1
+knit,örgü örmek,B1
+lament,ağıt yakmak,C1
+lash,kırbaçlamak,C1
+latent,gizli,C1
+laud,övmek,C1
+lavish,savurgan,C1
+lax,gevşek,C1
+leap,sıçramak,B1
+lecture,ders vermek,B1
+leery,şüpheci,C1
+legitimate,meşru,B2
+lenient,yumuşak,B2
+lethal,ölümcül,C1
+lethargic,uyuşuk,C1
+liable,sorumlu,B2
+liberate,özgürleştirmek,B2
+linger,oyalamak,C1
+litter,çöp,B1
+loathe,nefret etmek,C1
+locate,yerini belirlemek,B1
+lofty,yüksek,C1
+lonesome,yalnız,B1
+loot,yağmalamak,C1
+lucid,açık,C1
+lucrative,kazançlı,C1
+ludicrous,saçma,C1
+lull,sakinleştirmek,C1
+luminous,parlak,C1
+lunge,hamle yapmak,C1
+lure,cezbetmek,B2
+lurk,gizlenmek,C1
+lustrous,parlak,C1
+luxurious,lüks,B1
+lyric,lirik,B1
+macabre,ürkütücü,C1
+macerate,yumuşatmak,C1
+madden,çıldırtmak,C1
+magnify,büyütmek,C1
+malice,kötü niyet,C1
+mammoth,devasa,C1
+mandatory,zorunlu,B2
+maneuver,manevra,B2
+mangle,parçalamak,C1
+mania,çılgınlık,C1
+manipulate,yönlendirmek,B2
+mar,bozmak,C1
+marvel,harika,B1
+massacre,katliam,C1
+mature,olgun,B1
+maul,parçalamak,C1
+meager,az,C1
+meander,dolaşmak,C1
+meddle,karışmak,B2
+mediate,arabuluculuk yapmak,B2
+meek,uysal,C1
+melancholy,melankoli,C1
+menace,tehdit,B2
+mend,onarmak,B1
+merit,erdem,B2
+mesmerize,büyülemek,C1
+migrate,göç etmek,B1
+mimic,taklit etmek,B2
+mince,kıymak,C1
+mingle,karışmak,B2
+miraculous,mucizevi,C1
+mischief,yaramazlık,B2
+miserable,sefil,B1
+misery,sefalet,B2
+mishap,kaza,B2
+mislead,yanıltmak,B2
+mitigate,hafifletmek,C1
+moan,inlemek,B1
+mock,alay etmek,B1
+moderate,ılımlı,B2
+modify,değiştirmek,B1
+molest,taciz etmek,C1
+momentous,önemli,C1
+monitor,izlemek,B1
+mope,keyifsiz olmak,C1
+morale,moral,B2
+mortal,ölümlü,C1
+mortify,mahcup etmek,C1
+motionless,haraketsiz,C1
+mottled,benekli,C1
+mourn,yas tutmak,B2
+muddle,kafa karışıklığı,C1
+muffle,susturmak,C1
+mumble,mırıldanmak,B1
+murky,karanlık,C1
+muse,düşünmek,C1
+muster,toplamak,C1
+mute,sessiz,B1
+mutter,mırıldanmak,B1
+mystify,şaşırtmak,C1
+nag,dırdır etmek,C1
+navigate,yön bulmak,B1
+needy,yoksul,B2
+neglect,ihmal etmek,B1
+negotiate,müzakere etmek,B1
+nibble,kemirmek,B1
+nimble,çevik,C1
+nomadic,göçebe,C1
+nonchalant,kayıtsız,C1
+notable,dikkate değer,B2
+notify,bildirmek,B1
+nourish,beslemek,B2
+nudge,dürtmek,C1
+nullify,geçersiz kılmak,C1
+numb,hisiz,B1
+nurture,bakım,B2
+oath,yemin,B2
+obese,şişman,B2
+obey,itaat etmek,A1
+object,itiraz etmek,B1
+obligate,zorunlu kılmak,C1
+obliterate,yok etmek,C1
+oblivious,habersiz,C1
+obnoxious,iğrenç,C1
+obscure,belirsiz,B2
+observe,gözlemlemek,B1
+obsess,takıntı yapmak,B2
+obsolete,modası geçmiş,B2
+obstruct,engellemek,C1
+obtain,elde etmek,B1
+obvious,açık,A2
+occupy,işgal etmek,B1
+odor,koku,B1
+offend,gücendirmek,B1
+offset,dengelemek,B2
+omen,alamet,C1
+omit,atlamak,B2
+ooze,sızmak,C1
+oppress,baskı yapmak,B2
+opt,seçmek,B2
+optimistic,iyimser,B1
+orbit,yörünge,B1
+ordain,emretmek,C1
+orient,yönlendirmek,B2
+originate,kaynaklanmak,B2
+oust,kovmak,C1
+outbreak,patlak verme,B2
+outfit,giyim,B1
+outrage,öfke,B2
+outskirts,banliyö,B2
+outspoken,açık sözlü,B2
+outweigh,ağır basmak,C1
+overcast,kapalı (hava),B1
+overcome,üstesinden gelmek,B1
+overdue,gecikmiş,B2
+overflow,taşmak,B2
+overhaul,gözden geçirmek,C1
+overhear,istemeden duymak,C1
+overlap,örtüşmek,B2
+overlook,gözden kaçırmak,B2
+overpower,aşırı güç,C1
+overrate,abartmak,C1
+overrule,reddetmek,C1
+overt,açık,C1
+overtake,yakalamak,B2
+overthrow,devirmek,C1
+overturn,devirmek,C1
+overwhelm,boğmak,B2
+overwrought,aşırı heyecanlı,C1
+owe,borçlu olmak,B1
+pacify,yatıştırmak,C1
+pact,anlaşma,B2
+pamper,şımartmak,C1
+panic,panik,B1
+paralyze,felç etmek,C1
+paraphrase,ifadeyi değiştirerek söylemek,B2
+parched,kavrulmuş,C1
+parry,savurmak,C1
+partake,katılmak,C1
+partial,kısmi,B2
+passionate,tutkulu,B2
+patronize,küçümsemek,C1
+pause,durdurmak,A1
+peck,gagalamak,B1
+peculiar,garip,B1
+peddle,sepetlemek,C1
+peek,göz atmak,B1
+peel,soymak,A1
+peep,gizlice bakmak,B1
+peer,eşit,B1
+penalize,cezalandırmak,B2
+penetrate,içine işlemek,B2
+pensive,düşünceli,C1
+perceive,algılamak,B2
+perch,tünek,C1
+peril,tehlike,C1
+perish,yok olmak,C1
+perk,canlanmak,C1
+permeate,işlemek,C1
+permit,izin vermek,A2
+perpetrate,işlemek (suç),C1
+perplex,şaşırtmak,C1
+persecute,zulmetmek,C1
+persevere,sebat etmek,C1
+persist,ısrar etmek,B2
+persuade,ikna etmek,B1
+pertain,ilgili olmak,C1
+perturb,rahatsız etmek,C1
+peruse,gözden geçirmek,C1
+pester,rahatsız etmek,C1
+petition,dilekçe,B2
+petrify,taşlaştırmak,C1
+phase,aşama,B1
+philanthropy,insan sevgisi,C1
+pierce,delmek,B1
+pile,yığın,B1
+pinch,sıkıştırmak,B1
+pine,özlemek,C1
+pinnacle,zirve,C1
+pioneer,öncü,B2
+pirate,korsan,B1
+pitfall,tuzak,C1
+pivot,eksen,C1
+placate,yatıştırmak,C1
+plagiarize,aşırmak,C1
+plague,belâ,C1
+plaintiff,davacı,C1
+plausible,inandırıcı,B2
+plead,yalvarmak,B2
+pledge,söz vermek,B2
+plight,zor durum,C1
+plod,ağır aksak yürümek,C1
+pluck,koparmak,B1
+plummet,dibe vurmak,C1
+plunder,yağmalamak,C1
+plunge,dalmak,B2
+poignant,iç burkan,C1
+poise,dengede tutmak,C1
+poke,dürtmek,B1
+polish,cila,B1
+pollute,kirletmek,B1
+ponder,düşünmek,B2
+populate,yerleşmek,B2
+portray,betimlemek,B2
+pose,poz vermek,B1
+postpone,ertelemek,B1
+pounce,atlamak,C1
+pout,somurtmak,B1
+praise,övmek,A2
+prance,hoplamak,C1
+prattle,gevezelik etmek,C1
+preach,vaaz vermek,B2
+precarious,istikrarsız,C1
+precede,önce gelmek,B2
+precipitate,çöktürmek,C1
+preclude,engellemek,C1
+predicament,zor durum,C1
+predispose,yatkın hale getirmek,C1
+predominate,hakim olmak,C1
+preface,önsöz,B2
+prejudice,önyargı,B1
+preliminary,ön,B2
+premature,erken,B2
+preoccupy,meşgul etmek,C1
+prescribe,yazmak (reçete),B1
+preside,başkanlık etmek,C1
+presume,varsaymak,B2
+pretend,yapar gibi görünmek,A2
+pretext,bahane,B2
+prevail,üstün gelmek,B2
+prevalent,yaygın,B2
+prey,av,B1
+prick,iğnelemek,B1
+primary,birincil,B1
+prime,baş,B1
+prior,öncelikli,B2
+probe,soruşturmak,B2
+proceed,devam etmek,B1
+proclaim,ilan etmek,B2
+procure,tedarik etmek,C1
+prod,dürtmek,C1
+profound,derin,B2
+prohibit,yasaklamak,B1
+project,proje,A1
+proliferate,çoğalmak,C1
+prolong,uzatmak,B2
+prominent,önemli,B2
+promote,terfi ettirmek,B1
+prone,eğilimli,B2
+propagate,yaymak,C1
+propel,ilerletmek,C1
+prophesy,kehanet etmek,C1
+propose,öneride bulunmak,A2
+prosecute,kovuşturmak,B2
+prosper,refah içinde olmak,B2
+prostrate,yere kapanmış,C1
+protract,uzatmak,C1
+protrude,dışarı çıkmak,C1
+provoke,kışkırtmak,B2
+prowl,dolaşmak,C1
+prune,budamak,C1
+pry,gözetlemek,C1
+pucker,büzüşmek,C1
+puff,üflemek,B1
+pulverize,toz haline getirmek,C1
+pump,şişirmek,B1
+punch,yumruk atmak,B1
+punish,cezalandırmak,A2
+purchase,satın almak,A2
+purge,tasfiye etmek,C1
+pursue,peşinden gitmek,B1
+quaint,tuhaf,B2
+quake,titremek,B1
+qualify,nitelik kazanmak,B1
+quarrel,tartışmak,B1
+quash,bastırmak,C1
+quaver,titremek,C1
+quell,bastırmak,C1
+quench,söndürmek,B2
+query,sorgulamak,B2
+quibble,kelime oyunu yapmak,C1
+quiver,titremek,B2
+quota,kota,B2
+quote,alıntı yapmak,A2
+rack,raf,B1
+radiate,yaymak,B2
+ragged,eski püskü,C1
+raid,baskın,B1
+rally,toplanmak,B2
+ramble,amaçsızca dolaşmak,C1
+ransack,altını üstüne getirmek,C1
+rant,bağırıp çağırmak,C1
+ratify,onaylamak,B2
+ration,pay,B2
+rattle,gürültü yapmak,B1
+ravage,tahrip etmek,C1
+rave,çılgınca konuşmak,C1
+ravish,büyülemek,C1
+raze,yıkmak,C1
+reap,biçmek,B2
+reassure,güven vermek,B2
+rebuke,azarlamak,B2
+rebut,çürütmek,C1
+recall,hatırlamak,B1
+recede,geri çekilmek,B2
+reciprocate,karşılık vermek,C1
+recite,ezberden okumak,B1
+reckon,hesaplamak,B2
+reclaim,geri almak,B2
+recline,yaslanmak,C1
+recoil,geri çekilmek,C1
+recollect,hatırlamak,B2
+recommend,tavsiye etmek,A2
+reconcile,uzlaştırmak,B2
+recoup,karşılamak,C1
+recruit,işe almak,B1
+rectify,düzeltmek,B2
+redeem,kurtarmak,B2
+redo,yeniden yapmak,B1
+reduce,azaltmak,A2
+reek,kötü kokmak,B2
+refer,atıfta bulunmak,A2
+refine,arıtmak,B2
+refrain,kaçınmak,B2
+refund,geri ödeme,B1
+regain,geri kazanmak,B2
+regress,gerilemek,C1
+regret,pişman olmak,A2
+regulate,düzenlemek,B1
+rehabilitate,rehabilite etmek,B2
+reign,hüküm sürmek,B2
+reimburse,geri ödemek,B2
+reinforce,güçlendirmek,B1
+reiterate,tekrarlamak,B2
+reject,reddetmek,A2
+rejoice,sevinmek,B2
+relapse,nüksetmek,C1
+relay,iletmek,B2
+release,serbest bırakmak,A2
+relent,yumuşamak,C1
+relieve,rahatlatmak,B1
+relinquish,vazgeçmek,C1
+relish,zevk almak,B2
+relocate,taşınmak,B2
+remainder,kalan,B2
+remand,gözaltına almak,C1
+remarkable,dikkat çekici,B1
+remedy,çare,B1
+remit,göndermek (para),C1
+remorse,pişmanlık,B2
+remove,kaldırmak,A2
+render,sunmak,B2
+renew,yenilemek,B1
+renounce,reddetmek,C1
+renovate,yenilemek,B2
+renown,ün,C1
+repay,geri ödemek,B1
+repeal,yürürlükten kaldırmak,B2
+repel,itmek,B2
+repent,pişman olmak,B2
+rephrase,farklı şekilde ifade etmek,B2
+replace,yerine koymak,A2
+replenish,yenilemek,C1
+replicate,kopyalamak,B2
+report,rapor vermek,A1
+repose,dinlenme,C1
+repress,bastırmak,C1
+reprimand,azarlamak,C1
+reproach,azarlamak,B2
+reproduce,çoğaltmak,B1
+repudiate,reddetmek,C1
+repulse,itmek,C1
+request,rica etmek,A2
+require,gerektirmek,A2
+rescind,iptal etmek,C1
+rescue,kurtarmak,A2
+resemble,benzemek,A2
+resent,gücenmek,B2
+reside,ikamet etmek,B2
+resign,istifa etmek,B1
+resist,direnmek,B1
+resolve,çözmek,B1
+resort,başvurmak,B2
+respect,saygı duymak,A1
+respond,yanıt vermek,A2
+restrain,zaptetmek,B2
+restrict,kısıtlamak,B1
+result,sonuçlanmak,A1
+resume,devam etmek,B1
+retain,muhafaza etmek,B2
+retaliate,intikam almak,C1
+retard,yavaşlatmak,C1
+retire,emekli olmak,A2
+retort,karşılık vermek,C1
+retract,geri çekmek,C1
+retreat,geri çekilmek,B1
+retrieve,geri almak,B2
+reveal,ortaya çıkarmak,A2
+revere,hürmet etmek,C1
+reverse,tersine çevirmek,B1
+revise,gözden geçirmek,B1
+revive,canlandırmak,B2
+revoke,geri almak,B2
+revolt,isyan etmek,B2
+revolve,dönmek,B1
+reward,ödüllendirmek,A2
+rid,kurtarmak,B1
+ridicule,alay etmek,B2
+rig,donatmak,C1
+rinse,çalkalamak,B1
+riot,isyan çıkarmak,B1
+ripen,olgunlaşmak,B2
+ripple,dalgalanmak,C1
+rise,yükselmek,A2
+risk,riske atmak,A2
+rival,rakip,B1
+roam,dolaşmak,B2
+roar,kükremek,B1
+rob,soymak,A2
+rotate,döndürmek,B1
+rouse,uyandırmak,C1
+rub,ovmak,A2
+ruffle,karıştırmak,C1
+ruin,mahvetmek,B1
+rule,yönetmek,A2
+rummage,karıştırmak,C1
+rupture,yırtılma,C1
+rush,acele etmek,A2
+rust,paslanmak,B1
+sack,kovmak,B2
+sacrifice,fedakarlık etmek,B1
+saddle,eyer,B1
+safeguard,korumak,B2
+sag,sarkmak,B2
+sail,yelken açmak,A2
+sally,çıkış yapmak,C1
+salute,selamlamak,B1
+salvage,kurtarmak,B2
+sample,örneklemek,B1
+sanction,yaptırım uygulamak,B2
+sap,zayıflatmak,C1
+sate,doyurmak,C1
+saturate,doyurmak,B2
+savage,vahşi,B2
+save,kurtarmak,A1
+savor,tadını çıkarmak,B2
+scald,haşlamak,B1
+scale,ölçek,B1
+scamper,koşuşturmak,C1
+scan,taramak,B1
+scare,korkutmak,A2
+scatter,dağıtmak,B1
+scent,koku,B1
+schedule,programlamak,A2
+scoff,alay etmek,B2
+scold,azarlamak,B1
+scoop,kepçe,B1
+scorch,kavurmak,B1
+scorn,küçümseme,B2
+scour,araştırmak,C1
+scout,keşif yapmak,B1
+scowl,kaş çatmak,B1
+scramble,tırmanmak,B2
+scrap,parça,B1
+scrape,kazımak,B1
+scratch,kaşımak,A2
+scream,çığlık atmak,A2
+screech,çığlık atmak,B1
+screen,taramak,B1
+screw,vida,B1
+scribble,karalamak,B1
+scrub,ovalamak,B1
+scrutiny,inceleme,B2
+sculpt,heykel yapmak,B1
+scurry,koşuşturmak,B2
+seal,mühürlemek,B1
+sear,kavurmak,B1
+season,baharatlamak,B1
+secede,ayrılmak,C1
+seclude,tecrit etmek,C1
+secure,güvence altına almak,B1
+sedate,sakin,B2
+seduce,baştan çıkarmak,B2
+seep,sızmak,B2
+seethe,kaynamak,C1
+segregate,ayırmak,B2
+seize,zaptetmek,B1
+select,seçmek,A2
+sentence,ceza vermek,A2
+separate,ayırmak,A2
+sever,koparmak,B2
+sew,dikmek,A2
+shade,gölgelendirmek,A2
+shake,sallamak,A1
+shame,utandırmak,A2
+shape,şekil vermek,A2
+share,paylaşmak,A1
+sharpen,bilemek,B1
+shatter,paramparça etmek,B2
+shear,kırpmak,B1
+shed,dökmek,B1
+shelter,barınak,A2
+shield,kalkan,B1
+shift,değiştirmek,A2
+shiver,titremek,B1
+shock,şok etmek,A2
+shore,kıyı,A2
+shorten,kısaltmak,B1
+shout,bağırmak,A1
+shove,itmek,B1
+shower,duş almak,A1
+shred,parçalamak,B1
+shrink,küçülmek,B1
+shrug,omuz silkmek,B1
+shudder,ürpermek,B2
+shuffle,karıştırmak,B1
+shun,kaçınmak,B2
+shut,kapatmak,A1
+shutter,kepenk,B1
+sift,elemek,B1
+sigh,iç çekmek,A2
+sign,imzalamak,A1
+signal,sinyal vermek,A2
+simmer,kaynamak,B1
+simplify,basitleştirmek,B1
+sin,günah işlemek,B1
+singe,hafifçe yakmak,B1
+sink,batmak,A2
+sip,yudumlamak,B1
+sit,oturmak,A1
+sketch,kroki çizmek,B1
+skim,kaymak,B1
+skip,atlamak,A2
+skirt,etrafından dolaşmak,B2
+slacken,gevşetmek,B2
+slam,çarpmak,B1
+slap,şamar atmak,B1
+slash,kesmek,B1
+slaughter,katletmek,B2
+slay,öldürmek,B2
+slice,dilimlemek,A2
+slide,kaymak,A2
+sling,fırlatmak,B1
+slink,sinsice gitmek,C1
+slip,kaymak,A2
+slit,yarmak,B1
+slope,yokuş,A2
+slouch,kambur durmak,B1
+slump,düşüş,B2
+smash,parçalamak,B1
+smear,bulaştırmak,B1
+smell,koklamak,A1
+smile,gülümsemek,A1
+smite,vurmak,B2
+smoke,sigara içmek,A1
+smolder,körüklenmek,B1
+smooth,düzeltmek,A2
+smother,boğmak,B2
+smuggle,kaçakçılık yapmak,B2
+snag,takılmak,B1
+snap,koparmak,B1
+snare,tuzak,B1
+snarl,hırlamak,B1
+snatch,kapmak,B1
+sneak,gizlice girmek,B1
+sneer,alay etmek,B2
+sneeze,hapşırmak,A2
+sniff,koklamak,B1
+snore,horlamak,A2
+snort,homurdanmak,B1
+snow,kar yağmak,A1
+soak,ıslamak,A2
+soar,yükselmek,B2
+sob,hıçkırmak,B1
+soften,yumuşatmak,B1
+soil,kirletmek,B1
+solve,çözmek,A2
+soothe,yatıştırmak,B2
+sort,sıralamak,A2
+sound,ses çıkarmak,A1
+sow,ekmek,B1
+span,kapsamak,B2
+spare,ayırmak,A2
+spark,kıvılcım,B1
+sparkle,parıldamak,B1
+speak,konuşmak,A1
+speculate,tahmin yürütmek,B2
+speed,hızlanmak,A2
+spell,hecelemek,A2
+spend,harcamak,A1
+spill,dökmek,A2
+spin,dönmek,A2
+spit,tükürmek,B1
+splash,sıçratmak,B1
+split,ayırmak,A2
+spoil,şımartmak,A2
+sponsor,sponsor olmak,B1
+spoon,kaşıkla vermek,A2
+spot,fark etmek,A2
+spray,püskürtmek,B1
+spread,yaymak,A2
+spring,havlamak,B1
+sprout,filizlenmek,B1
+spur,dürtmek,B2
+spy,casusluk yapmak,B1
+squash,ezmek,B1
+squat,çömelmek,B1
+squeak,gıcırdamak,B1
+squeeze,sıkmak,A2
+stab,bıçaklamak,B1
+stabilize,istikrar sağlamak,B2
+stack,istiflemek,B1
+stagger,sendelemek,B2
+stain,lekelemek,A2
+stake,kazık,B1
+stale,bayat,B1
+stall,oyalanmak,B1
+stammer,kekelemek,B1
+stamp,pul yapıştırmak,A2
+stand,ayakta durmak,A1
+stare,bakmak,A2
+startle,ürpertmek,B2
+starve,açlıktan ölmek,B1
+state,beyan etmek,A2
+station,konuşlandırmak,B1
+stay,kalmak,A1
+steal,çalmak,A1
+steer,yönlendirmek,B1
+step,adım atmak,A1
+stick,yapıştırmak,A2
+stiffen,sertleşmek,B1
+stifle,boğmak,B2
+stimulate,teşvik etmek,B2
+sting,sokmak,B1
+stink,kokmak,B1
+stir,karıştırmak,A2
+stitch,dikmek,B1
+stock,stoklamak,B1
+stoop,eğilmek,B1
+stop,durdurmak,A1
+store,depolamak,A2
+strain,zorlamak,B1
+strap,kayış,B1
+stray,sapmak,B1
+strengthen,güçlendirmek,B1
+stress,vurgulamak,A2
+stretch,uzatmak,A2
+stride,uzun adımlarla yürümek,B1
+strike,vurmak,A2
+strip,soymak,B1
+strive,çabalamak,B2
+stroke,okşamak,B1
+stroll,gezinmek,B1
+structure,yapılandırmak,B1
+struggle,mücadele etmek,A2
+stuff,tıkmak,A2
+stumble,tökezlemek,B1
+stun,şaşırtmak,B1
+stunt,dublörlük yapmak,B1
+subdue,zaptetmek,B2
+subject,maruz bırakmak,B2
+submerge,dalmak,B2
+submit,teslim etmek,A2
+subordinate,ast,B2
+subscribe,abone olmak,A2
+subside,yatışmak,B2
+subsidize,sübvanse etmek,B2
+substitute,yedek,B1
+subtract,çıkarmak,A2
+succeed,başarmak,A1
+succumb,direnememek,B2
+suck,emmek,A2
+sue,dava açmak,B1
+suffer,acı çekmek,A2
+suffice,yeterli olmak,B2
+suggest,önermek,A1
+suit,uymak,A2
+summarize,özetlemek,A2
+summon,çağırmak,B1
+supervise,denetlemek,B1
+supplement,takviye etmek,B1
+supply,tedarik etmek,A2
+support,desteklemek,A1
+suppose,varsaymak,A2
+suppress,bastırmak,B2
+surface,yüzeye çıkmak,A2
+surge,dalgalanmak,B2
+surmount,üstesinden gelmek,B2
+surpass,aşmak,B2
+surprise,şaşırtmak,A1
+surrender,teslim olmak,B1
+surround,kuşatmak,A2
+survey,anket yapmak,A2
+survive,hayatta kalmak,A2
+suspect,şüphelenmek,A2
+suspend,askıya almak,B1
+sustain,sürdürmek,B2
+swallow,yutmak,A2
+swamp,bataklık,B1
+swarm,sürü halinde gitmek,B1
+sway,sallanmak,B1
+swear,yemin etmek,A2
+sweat,terlemek,A2
+sweep,süpürmek,A2
+swell,şişmek,B1
+swift,hızlı,B1
+swim,yüzmek,A1
+swing,sallanmak,A2
+switch,değiştirmek,A2
+swivel,döndürmek,B1
+swoop,üzerine çullanmak,B1
+symbolize,sembolize etmek,B2
+sympathize,sempati duymak,B2
+synthesize,sentezlemek,B2
+systematize,sistematize etmek,B2
+tabulate,tablo haline getirmek,B2
+tack,zikzak yapmak,B1
+tackle,üstesinden gelmek,B1
+tag,etiketlemek,A2
+tailor,kişiselleştirmek,B1
+taint,lekelemek,B2
+take,almak,A1
+talk,konuşmak,A1
+tally,uyuşmak,B1
+tame,evcilleştirmek,B1
+tamper,karıştırmak,B2
+tan,taba rengine dönmek,B1
+tangle,dolaştırmak,B1
+tap,hafifçe vurmak,A2
+tape,bantlamak,A2
+target,hedef almak,A2
+tarnish,karartmak,B2
+task,görevlendirmek,B1
+taste,tadına bakmak,A1
+tatter,parçalamak,B1
+taunt,alay etmek,B1
+teach,öğretmek,A1
+tear,yırtmak,A2
+tease,alay etmek,A2
+teem,kaynaşmak,B2
+telephone,telefon etmek,A1
+tell,söylemek,A1
+tempt,ayartmak,B1
+tend,eğilim göstermek,A2
+term,adlandırmak,B1
+terminate,sonlandırmak,B1
+terrify,korkutmak,B1
+test,test etmek,A1
+testify,tanıklık etmek,B1
+thank,teşekkür etmek,A1
+thaw,erimek,B1
+thicken,koyulaştırmak,B1
+think,düşünmek,A1
+thrash,dövmek,B1
+thread,iplik geçirmek,B1
+threaten,tehdit etmek,A2
+thresh,dövmek,B1
+thrill,heyecanlandırmak,B1
+thrive,gelişmek,B2
+throb,zonklamak,B1
+throw,atmak,A1
+thrust,itiş,B1
+thump,yumruklamak,B1
+thwart,engellemek,B2
+tick,işaretlemek,B1
+tickle,gıdıklamak,A2
+tidy,toparlamak,A2
+tie,bağlamak,A1
+tighten,sıkılaştırmak,B1
+tilt,eğmek,B1
+time,zamanlamak,A2
+tip,ucunu vermek,A2
+tire,yormak,A2
+toil,emeğiyle kazanmak,B2
+tolerate,hoşgörmek,B1
+tone,tonlamak,B1
+top,aşmak,A2
+toss,atmak,A2
+total,toplamak,A2
+touch,dokunmak,A1
+toughen,sertleştirmek,B1
+tour,turlamak,A2
+tow,çekmek,B1
+tower,yükselmek,A2
+toy,oynamak,A2
+trace,izlemek,A2
+track,takip etmek,A2
+trade,ticaret yapmak,A1
+train,eğitmek,A1
+transact,iş yapmak,B1
+transfer,aktarmak,A2
+transform,dönüştürmek,A2
+translate,çevirmek,A2
+transmit,iletmek,B1
+transport,taşımak,A2
+trap,tuzak kurmak,A2
+travel,seyahat etmek,A1
+tread,basmak,B1
+treasure,hazine olarak saklamak,B1
+treat,davranmak,A2
+tremble,titremek,B1
+trespass,izinsiz girmek,B1
+trick,kandırmak,A2
+trigger,tetiklemek,B1
+trim,budamak,B1
+trip,takılmak,A2
+triumph,zafer kazanmak,B1
+trivialize,önemsiz göstermek,B2
+trot,tırıs gitmek,B1
+trouble,rahatsız etmek,A2
+truck,kamyonla taşımak,A2
+trudge,ağır adımlarla yürümek,B1
+trumpet,boru çalmak,B1
+trust,güvenmek,A1
+try,denemek,A1
+tuck,sıkıştırmak,A2
+tug,çekiştirmek,B1
+tumble,yuvarlanmak,B1
+tune,akort etmek,B1
+turn,dönmek,A1
+tutor,özel ders vermek,B1
+twist,bükmek,A2
+type,yazmak,A1
+uncover,ortaya çıkarmak,B1
+undercut,ucuz satmak,B2
+undergo,geçirmek,B1
+underline,altını çizmek,A2
+undermine,baltalamak,B2
+understand,anlamak,A1
+undertake,üstlenmek,B1
+undo,geri almak,A2
+unearth,ortaya çıkarmak,B1
+unfasten,çözmek,B1
+unfold,açmak,B1
+unify,birleştirmek,B1
+unite,birleşmek,A2
+unleash,salmak,B2
+unload,boşaltmak,A2
+unlock,açmak,A2
+unpack,açmak,A2
+unravel,çözmek,B1
+unroll,açmak,B1
+untie,çözmek,A2
+unveil,açığa çıkarmak,B1
+update,güncellemek,A2
+upgrade,yükseltmek,A2
+uphold,sürdürmek,B2
+upset,üzmek,A2
+urge,teşvik etmek,B1
+use,kullanmak,A1
+usher,yol göstermek,B1
+utilize,kullanmak,B1
+utter,söylemek,B1
+vacate,boşaltmak,B1
+validate,doğrulamak,B1
+value,değer vermek,A2
+vanish,yok olmak,B1
+vary,çeşitlilik göstermek,A2
+vent,havalandırmak,B1
+venture,teşebbüs etmek,B1
+verify,doğrulamak,B1
+veto,veto etmek,B1
+vex,sinirlendirmek,B1
+vibrate,titreşmek,B1
+view,izlemek,A2
+violate,ihlal etmek,B1
+visit,ziyaret etmek,A1
+visualize,gözünde canlandırmak,B1
+voice,ifade etmek,A2
+void,geçersiz kılmak,B1
+volunteer,gönüllü olmak,A2
+vomit,kusmak,A2
+vote,oy vermek,A1
+vow,yemin etmek,B1
+wade,sığ suda yürümek,B1
+wag,sallamak,B1
+wage,yürütmek,B1
+wail,inlemek,B1
+wait,beklemek,A1
+wake,uyanmak,A1
+walk,yürümek,A1
+wander,dolaşmak,A2
+want,istemek,A1
+warm,ısınmak,A1
+warn,uyarmak,A2
+wash,yıkamak,A1
+waste,boşa harcamak,A2
+watch,izlemek,A1
+water,sulamak,A2
+wave,el sallamak,A1
+waver,tereddüt etmek,B1
+wear,giymek,A1
+weave,dokumak,B1
+wed,evlenmek,B1
+weep,ağlamak,B1
+weigh,tartmak,A2
+welcome,hoş karşılamak,A1
+wend,yönelmek,B1
+wet,ıslatmak,A2
+whack,vurmak,B1
+wheel,tekerlekli bir şeyi itmek,B1
+whip,kamçılamak,B1
+whirl,dönmek,B1
+whisper,fısıldamak,A2
+whistle,ıslık çalmak,A2
+whiten,beyazlatmak,B1
+whittle,yontmak,B1
+widen,genişletmek,B1
+wield,kullanmak,B2
+wiggle,kıpırdatmak,B1
+will,irade göstermek,B1
+win,kazanmak,A1
+wind,sarmak,B1
+wink,göz kırpmak,B1
+wipe,silmek,A2
+wire,tel bağlamak,B1
+wish,dilemek,A1
+withdraw,geri çekilmek,B1
+withhold,geri durmak,B1
+withstand,dayanmak,B1
+witness,tanık olmak,B1
+wobble,sallanmak,B1
+wonder,merak etmek,A2
+work,çalışmak,A1
+worry,endişelenmek,A1
+worship,tapmak,B1
+wound,yaralamak,A2
+wrap,sarmak,A2
+wreck,mahvetmek,B1
+wrestle,güreşmek,B1
+wriggle,kıvranmak,B1
+wrinkle,kırıştırmak,B1
+write,yazmak,A1
+xerox,fotokopi çekmek,A2
+yank,çekmek,B1
+yawn,esnemek,A2
+yearn,özlemek,B2
+yell,bağırmak,A2
+yield,verim,B1
+yodel,şarkı söylemek,B1
+zero,sıfırlamak,B1
+zigzag,zigzag yapmak,B1
+zip,fermurayı çekmek,A2
+zoom,yakınlaştırmak,A2
+keel,dengesini kaybetmek,C1
+ken,anlamak,C1
+knead,yoğurmak,B2
+knit,örgü örmek,B1
+knock,vurmak,A1
+knot,düğüm atmak,B1
+kowtow,aşırı saygı göstermek,C2
+kvetch,sürekli şikayet etmek,C1
+label,etiketlemek,A2
+lace,bağcık bağlamak,B1
+lack,eksik olmak,A2
+lambast,şiddetle eleştirmek,C1
+lament,ağıt yakmak,C1
+lampoon,alay etmek,C1
+lance,delmek,C1
+land,karaya çıkmak,A2
+languish,zayıflamak,C1
+lap,yalamak,B1
+lapse,sona ermek,B2
+lard,içine katmak,C1
+lash,bağlamak,C1
+latch,kilitlemek,B1
+laud,övmek,C1
+laugh,gülmek,A1
+launch,başlatmak,A2
+launder,para aklamak,B2
+lavish,aşırı harcamak,C1
+lay,yatırmak,A2
+leach,süzmek,C1
+leak,sızdırmak,B1
+lean,eğilmek,A2
+leap,zıplamak,B1
+lease,kiralamak,B1
+leash,tasma takmak,B1
+leave,ayrılmak,A1
+leer,şehvetle bakmak,C1
+legitimize,meşrulaştırmak,C1
+lend,ödünç vermek,A2
+let,izin vermek,A1
+level,düzleştirmek,A2
+levitate,havada durmak,C2
+levy,vergi koymak,B2
+liberate,özgürleştirmek,B2
+license,lisans vermek,B1
+lick,yalamak,A2
+lie,uzanmak,A1
+lift,kaldırmak,A1
+light,aydınlatmak,A1
+like,beğenmek,A1
+limn,tasvir etmek,C2
+limp,topallamak,B1
+line,astarlamak,B1
+linger,oyalanmak,C1
+link,bağlamak,A2
+liquefy,sıvılaştırmak,C1
+list,listelemek,A2
+listen,dinlemek,A1
+litigate,dava açmak,C1
+litter,dağıtmak,B1
+live,yaşamak,A1
+load,yüklemek,A2
+loaf,aylaklık etmek,B1
+loan,borç vermek,A2
+loathe,nefret etmek,C1
+lob,fırlatmak,C1
+lobby,ikna etmek,B2
+locate,yerini belirlemek,B1
+lock,kilitlemek,A1
+lodge,yerleştirmek,B2
+loft,yukarı fırlatmak,C1
+log,kaydetmek,B1
+loiter,oyalanmak,B2
+loll,sarkmak,C1
+look,bakmak,A1
+loop,halka yapmak,B1
+loosen,gevşetmek,B1
+loot,yağmalamak,B2
+lop,kesmek,C1
+lope,uzun adımlarla koşmak,C1
+lose,kaybetmek,A1
+lounge,rahatça oturmak,B1
+lour,kaşlarını çatmak,C1
+love,sevmek,A1
+lower,indirmek,A2
+lubricate,yağlamak,C1
+lug,sürüklemek,B1
+lull,sakinleştirmek,C1
+lumber,ağır hareket etmek,C1
+lump,topak yapmak,B1
+lunge,hamle yapmak,C1
+lurch,sendelemek,C1
+lure,cezbetmek,B2
+lurk,gizlenmek,C1
+lust,şiddetle arzulamak,C1
+luxuriate,keyfini sürmek,C2
+lynch,linç etmek,C2
+macerate,yumuşatmak,C1
+machine,makinede işlemek,B1
+madden,çıldırtmak,C1
+magnetize,mıknatıslamak,C2
+magnify,büyütmek,C1
+mail,posta göndermek,A1
+maim,sakat bırakmak,C1
+maintain,sürdürmek,A2
+major,uzmanlaşmak,B1
+make,yapmak,A1
+malfunction,arızalanmak,B2
+malign,kötülemek,C1
+malinger,numara yapmak,C2
+maltreat,kötü muamele etmek,C1
+man,idare etmek,B1
+manage,yönetmek,A1
+mandate,zorunlu kılmak,B2
+maneuver,manevra yapmak,B2
+mangle,parçalamak,C1
+manhandle,itaat ettirmek,C1
+manifest,açığa çıkarmak,B2
+manipulate,yönlendirmek,B2
+manufacture,üretmek,B1
+map,haritasını çıkarmak,B1
+mar,bozmak,C1
+march,yürüyüş yapmak,A2
+mark,işaretlemek,A2
+market,piyasaya sürmek,B1
+maroon,ıssız adaya bırakmak,C2
+marry,evlenmek,A1
+marshal,düzenlemek,C1
+martyr,şehit etmek,C2
+marvel,hayran kalmak,B2
+mash,ezmek,B1
+mask,kamuflaj yapmak,B1
+mass,toplanmak,B2
+massacre,katliam yapmak,C1
+massage,masaj yapmak,B1
+master,ustalaşmak,B1
+masticate,çiğnemek,C1
+match,eşleştirmek,A2
+mate,çiftleştirmek,B2
+materialize,gerçekleşmek,C1
+matter,önemli olmak,A2
+mature,olgunlaşmak,B1
+maul,parçalamak,C1
+maximize,en üst düzeye çıkarmak,B2
+mean,kastetmek,A1
+measure,ölçmek,A1
+mediate,arabuluculuk yapmak,B2
+meditate,derin düşünmek,B2
+meet,buluşmak,A1
+melt,erimek,A2
+memorize,ezberlemek,A2
+mend,onarmak,B1
+menace,tehdit etmek,B2
+merge,birleşmek,B2
+merit,hak etmek,B2
+mesh,uyum sağlamak,C1
+mesmerize,büyülemek,C1
+migrate,göç etmek,B1
+milk,sağmak,B1
+mime,pantomim yapmak,B1
+mimic,taklit etmek,B2
+mince,kıymak,B1
+mind,aldırmak,A2
+mine,kazı yapmak,B1
+mingle,karışmak,B2
+minimize,küçümsemek,B2
+mirror,yansıtmak,B2
+mislead,yanıltmak,B2
+miss,kaçırmak,A2
+misuse,kötüye kullanmak,B2
+mitigate,hafifletmek,C1
+mix,karıştırmak,A1
+moan,inlemek,B1
+mobilize,seferber etmek,C1
+mock,alay etmek,B1
+model,modellemek,B1
+moderate,ılımlı hale getirmek,B2
+modernize,modernize etmek,B2
+modify,değiştirmek,B1
+modulate,ayarlamak,C1
+moisten,nemlendirmek,B1
+mold,şekil vermek,B1
+molest,taciz etmek,C1
+mollify,yatıştırmak,C1
+monitor,izlemek,B1
+monopolize,tekelinde tutmak,C1
+moor,bağlamak (gemi),C1
+moot,tartışmaya açmak,C1
+mop,silmek,B1
+mope,keyifsiz olmak,C1
+moralize,ahlak dersi vermek,C2
+morph,dönüşmek,C1
+mortify,mahcup etmek,C1
+motion,el işareti yapmak,B1
+motivate,motive etmek,B1
+motor,motorla çalıştırmak,B1
+mold,şekil vermek,B1
+mount,monte etmek,B1
+mourn,yas tutmak,B2
+mouth,söylemek (dudak hareketi),B1
+move,taşınmak,A1
+mow,biçmek,B1
+muddle,karıştırmak,B2
+muffle,susturmak,C1
+mulch,malçlamak,C1
+multiply,çoğalmak,A2
+mumble,mırıldanmak,B1
+murder,cinayet işlemek,B1
+murmur,fısıldamak,B1
+muscle,zorla sokulmak,C1
+muse,düşünmek,C1
+muster,toplamak,C1
+mutilate,sakat bırakmak,C1
+mutiny,isyan etmek,C1
+mutter,mırıldanmak,B1
+muzzle,ağızlık takmak,C1
+mystify,şaşırtmak,C1
+nab,yakalamak,C1
+nag,dırdır etmek,C1
+nail,çivilemek,B1
+name,isim vermek,A1
+nap,kestirmek,B1
+narrate,anlatmak,B1
+narrow,daraltmak,A2
+navigate,yön bulmak,B1
+near,yaklaşmak,A2
+necessitate,gerektirmek,C1
+need,ihtiyaç duymak,A1
+neglect,ihmal etmek,B1
+negotiate,müzakere etmek,B1
+nest,yuva yapmak,B1
+nestle,sokulmak,C1
+net,ağla yakalamak,B1
+nettle,sinirlendirmek,C1
+network,ağ kurmak,B1
+neutralize,etkisiz hale getirmek,C1
+nibble,kemirmek,B1
+nick,çentik atmak,B1
+nip,koparmak,B1
+nod,başını sallamak,A2
+nominate,aday göstermek,B2
+normalize,normal hale getirmek,B2
+nose,burnunu sokmak,C1
+note,not etmek,A2
+notice,fark etmek,A2
+notify,bildirmek,B1
+nourish,beslemek,B2
+nudge,dürtmek,C1
+nullify,geçersiz kılmak,C1
+number,numaralamak,A2
+nurse,hasta bakıcılık yapmak,B1
+nurture,büyütmek,B2
+nutate,sallanmak,C2
+obey,itaat etmek,A1
+object,itiraz etmek,B1
+obligate,zorunlu kılmak,C1
+oblige,mecbur etmek,B2
+obliterate,yok etmek,C1
+obscure,gizlemek,B2
+observe,gözlemlemek,B1
+obsess,takıntı yapmak,B2
+obstruct,engellemek,C1
+obtain,elde etmek,B1
+occupy,işgal etmek,B1
+occur,meydana gelmek,A2
+offend,gücendirmek,B1
+offer,teklif etmek,A1
+officiate,yöneticilik yapmak,C1
+offset,dengelemek,B2
+omit,atlamak,B2
+ooze,sızmak,C1
+open,açmak,A1
+operate,çalıştırmak,A2
+opine,fikir belirtmek,C1
+oppose,karşı çıkmak,B1
+oppress,baskı yapmak,B2
+opt,seçmek,B2
+optimize,en uygun hale getirmek,B2
+orbit,yörüngede dönmek,B1
+orchestrate,düzenlemek,C1
+order,sipariş vermek,A1
+organize,düzenlemek,A2
+orient,yönlendirmek,B2
+originate,kaynaklanmak,B2
+ornament,süslemek,B2
+orphan,öksüz bırakmak,C1
+oscillate,salınmak,C1
+oust,kovmak,C1
+outclass,üstün olmak,C1
+outdo,aşmak,C1
+outfit,donatmak,B1
+outgrow,aşmak (boy),B2
+outlaw,yasaklamak,B2
+outline,ana hatlarını belirtmek,B1
+outlive,daha uzun yaşamak,B2
+outmaneuver,manevra ile yenmek,C1
+outnumber,sayıca üstün olmak,B2
+outpace,geride bırakmak,C1
+outperform,daha iyi performans göstermek,B2
+outplay,daha iyi oynamak,B2
+outrage,öfkelendirmek,B2
+outrank,daha üstün olmak,C1
+outrun,koşuda geçmek,B2
+outsell,daha çok satmak,B2
+outshine,gölgede bırakmak,C1
+outsmart,kurnazlıkla yenmek,C1
+outsource,dış kaynak kullanmak,B2
+outspread,yaymak,C1
+outstay,fazla kalmak,C1
+outstrip,geride bırakmak,C1
+outvote,oy çokluğuyla yenmek,C1
+outweigh,ağır basmak,C1
+overachieve,bekleneni aşmak,C1
+overact,abartılı oynamak,C1
+overawe,baskı altına almak,C1
+overbalance,dengesini kaybetmek,C1
+overbear,baskın çıkmak,C1
+overbid,daha fazla teklif vermek,C1
+overblow,abartmak,C1
+overbook,fazla rezervasyon yapmak,C1
+overburden,aşırı yüklemek,C1
+overcharge,fazla fiyat istemek,B2
+overcome,üstesinden gelmek,B1
+overcompensate,aşırı telafi etmek,C1
+overcook,fazla pişirmek,B1
+overcrowd,aşırı kalabalıklaştırmak,B2
+overdo,abartmak,B2
+overdose,aşırı doz almak,B2
+overdraw,hesabı aşmak,C1
+overdress,aşırı giyinmek,C1
+overdrive,aşırı zorlamak,C1
+overeat,aşırı yemek,B1
+overemphasize,aşırı vurgulamak,C1
+overestimate,fazla tahmin etmek,B2
+overexert,aşırı zorlamak,C1
+overexpose,aşırı maruz bırakmak,C1
+overextend,aşırı genişletmek,C1
+overfeed,aşırı beslemek,C1
+overfill,aşırı doldurmak,C1
+overflow,taşmak,B2
+overfly,üzerinden uçmak,C1
+overgeneralize,aşırı genelleme yapmak,C1
+overgraze,aşırı otlatmak,C1
+overgrow,aşırı büyümek,C1
+overhang,sarkmak,C1
+overhaul,gözden geçirmek,C1
+overhear,istemeden duymak,C1
+overheat,aşırı ısınmak,B2
+overindulge,aşırı hoşgörülü olmak,C1
+overlap,örtüşmek,B2
+overlay,kaplamak,C1
+overload,aşırı yüklemek,B2
+overlook,gözden kaçırmak,B2
+overpay,fazla ödemek,B2
+overplay,abartmak,C1
+overpower,aşırı güç,C1
+overprice,aşırı fiyatlandırmak,C1
+overprint,fazla baskı yapmak,C1
+overproduce,aşırı üretmek,C1
+overprotect,aşırı korumak,C1
+overrate,abartmak,C1
+overreach,kendini aşmak,C1
+overreact,aşırı tepki vermek,B2
+override,geçersiz kılmak,C1
+overrule,reddetmek,C1
+overrun,istila etmek,C1
+oversee,denetlemek,B2
+oversell,abartarak satmak,C1
+overshadow,gölgede bırakmak,C1
+overshoot,hedefi aşmak,C1
+oversimplify,aşırı basitleştirmek,C1
+oversleep,fazla uyumak,B1
+overspend,aşırı harcamak,B2
+overstate,abartmak,B2
+overstay,fazla kalmak,B2
+overstep,aşmak (sınır),C1
+overstock,aşırı stoklamak,C1
+overstrain,aşırı zorlamak,C1
+overstress,aşırı stres yapmak,C1
+overstretch,aşırı germek,C1
+overtake,yakalamak,B2
+overtax,aşırı vergilendirmek,C1
+overthrow,devirmek,C1
+overtire,aşırı yormak,C1
+overtrain,aşırı antrenman yapmak,C1
+overturn,devirmek,C1
+overuse,aşırı kullanmak,B2
+overvalue,aşırı değer vermek,C1
+overwhelm,boğmak,B2
+overwork,aşırı çalıştırmak,B2
+owe,borçlu olmak,B1
+own,sahip olmak,A1
+pace,adımlamak,B1
+pack,paketlemek,A1
+pad,yastıklamak,B1
+paddle,kürek çekmek,B1
+paint,boya yapmak,A1
+pair,eşleştirmek,A2
+pamper,şımartmak,C1
+pan,eleştirmek,B2
+panel,panelle kaplamak,B1
+panic,panik yapmak,B1
+pant,nefes nefese kalmak,B1
+paper,kağıt kaplamak,B1
+parade,geçit yapmak,B1
+parallel,paralel olmak,B2
+paralyze,felç etmek,C1
+paraphrase,ifadeyi değiştirerek söylemek,B2
+parcel,paketlemek,B1
+pardon,affetmek,B1
+pare,soymak (meyve),B1
+park,park etmek,A1
+parody,parodisini yapmak,B2
+parrot,tekrarlamak,C1
+part,ayırmak,A2
+partake,katılmak,C1
+participate,katılmak,A2
+partition,bölmek,C1
+pass,geçmek,A1
+passivate,pasifleştirmek,C2
+paste,yapıştırmak,A2
+pat,hafifçe vurmak,B1
+patch,yama yapmak,B1
+patent,patent almak,B2
+patrol,devriye gezmek,B1
+patronize,küçümsemek,C1
+pattern,desen vermek,B1
+pause,durdurmak,A1
+pave,döşemek,B1
+paw,patilemek,B1
+pay,ödemek,A1
+peck,gagalamak,B1
+pedal,pedal çevirmek,B1
+peddle,sepetlemek,C1
+peel,soymak,A1
+peep,gizlice bakmak,B1
+peer,dikkatle bakmak,B1
+peg,çiviyle sabitlemek,B1
+pen,kalemle yazmak,A1
+penalize,cezalandırmak,B2
+pencil,kalemle çizmek,A2
+penetrate,içine işlemek,B2
+pepper,biber serpmek,B1
+perceive,algılamak,B2
+perch,tüneğe konmak,C1
+perfect,mükemmelleştirmek,B1
+perform,yapmak (görev),A2
+perfume,parfüm sürmek,B1
+perish,yok olmak,C1
+perk,canlanmak,C1
+perm,perma yapmak,B1
+permeate,işlemek,C1
+permit,izin vermek,A2
+perpetrate,işlemek (suç),C1
+persecute,zulmetmek,C1
+persevere,sebat etmek,C1
+persist,ısrar etmek,B2
+personalize,kişiselleştirmek,B2
+persuade,ikna etmek,B1
+pertain,ilgili olmak,C1
+perturb,rahatsız etmek,C1
+peruse,gözden geçirmek,C1
+pester,rahatsız etmek,C1
+pet,okşamak,A2
+phase,aşamalandırmak,B1
+philosophize,felsefe yapmak,C1
+phone,telefon etmek,A1
+photograph,fotoğraf çekmek,A1
+phrase,ifade etmek,B1
+pick,seçmek,A1
+picnic,piknik yapmak,A1
+picture,hayal etmek,A2
+piece,birleştirmek,B1
+pierce,delmek,B1
+pile,yığmak,B1
+pilfer,aşırmak,C1
+pillage,yağmalamak,C1
+pillow,yastığa yaslamak,B1
+pin,iğnelemek,B1
+pinch,sıkıştırmak,B1
+pine,özlemek,C1
+pinpoint,tam yerini belirlemek,C1
+pioneer,öncülük etmek,B2
+pip,geçmek (yarış),C1
+pipe,boru döşemek,B1
+pique,merak uyandırmak,C1
+pirate,korsanlık yapmak,B1
+piss,sinirlendirmek,B2
+pit,çukur açmak,B1
+pitch,ziftlemek,B1
+pity,acımak,B1
+pivot,dönmek (eksen),C1
+placate,yatıştırmak,C1
+place,yerleştirmek,A1
+plagiarize,aşırmak,C1
+plague,rahatsız etmek,C1
+plain,düzleştirmek,B1
+plait,örgü yapmak,B1
+plan,planlamak,A1
+plant,dikmek,A1
+plaster,sıva yapmak,B1
+plate,kaplamak,B1
+play,oynamak,A1
+plead,yalvarmak,B2
+please,memnun etmek,A1
+pledge,söz vermek,B2
+plod,ağır aksak yürümek,C1
+plot,plan yapmak,B1
+plow,sürmek,B1
+pluck,koparmak,B1
+plug,tıkamak,B1
+plumb,derinlemesine incelemek,C1
+plume,tüylerini kabartmak,C1
+plummet,dibe vurmak,C1
+plump,şişmanlatmak,B1
+plunder,yağmalamak,C1
+plunge,dalmak,B2
+ply,katlamak,C1
+poach,kaçak avlamak,C1
+pocket,cebine atmak,B1
+point,işaret etmek,A1
+poise,dengede tutmak,C1
+poison,zehirlemek,B1
+poke,dürtmek,B1
+polarize,kutuplaştırmak,C1
+polish,cilalamak,B1
+poll,anket yapmak,B2
+pollute,kirletmek,B1
+ponder,düşünmek,B2
+pool,birleştirmek,B2
+pop,patlamak,A2
+popularize,popülerleştirmek,B2
+populate,yerleşmek,B2
+pore,gözden geçirmek,C1
+portray,betimlemek,B2
+pose,poz vermek,B1
+position,konumlandırmak,B1
+possess,sahip olmak,B1
+post,göndermek,A2
+postpone,ertelemek,B1
+postulate,varsaymak,C1
+pot,saksıya dikmek,B1
+pounce,üzerine atlamak,C1
+pound,dövmek,B1
+pour,dökmek,A1
+pout,somurtmak,B1
+powder,toz haline getirmek,B1
+power,güç sağlamak,B1
+practice,pratik yapmak,A1
+praise,övmek,A2
+prance,hoplamak,C1
+pray,dua etmek,A2
+preach,vaaz vermek,B2
+precede,önce gelmek,B2
+precipitate,çöktürmek,C1
+preclude,engellemek,C1
+predicate,dayandırmak,C1
+predict,tahmin etmek,A2
+predispose,yatkın hale getirmek,C1
+preempt,önlemek,C1
+preen,tüylerini düzeltmek,C1
+preface,önsöz yazmak,B2
+prefer,tercih etmek,A1
+prejudice,önyargı oluşturmak,B1
+preoccupy,meşgul etmek,C1
+prepare,hazırlamak,A1
+prescribe,yazmak,B1
+present,sunmak,A1
+preserve,korumak,B1
+preside,başkanlık etmek,C1
+press,bastırmak,A1
+pressure,baskı yapmak,B1
+presume,varsaymak,B2
+pretend,yapar gibi görünmek,A2
+pretext,bahane yapmak,B2
+prevail,üstün gelmek,B2
+prevent,engellemek,A2
+prey,avlanmak,B1
+price,fiyatlandırmak,A2
+prick,iğnelemek,B1
+pride,gurur duymak,B1
+prime,hazırlamak,B1
+print,basmak,A1
+prise,zorla açmak,C1
+privatize,özelleştirmek,B2
+prize,değer vermek,B1
+probe,soruşturmak,B2
+proceed,devam etmek,B1
+process,işlemek,A2
+proclaim,ilan etmek,B2
+procure,tedarik etmek,C1
+prod,dürtmek,C1
+produce,üretmek,A1
+profess,iddia etmek,C1
+proffer,uzatmak,C1
+profile,profil çıkarmak,B2
+profit,kâr etmek,B1
+program,programlamak,A2
+progress,ilerlemek,A2
+prohibit,yasaklamak,B1
+project,yansıtmak,B1
+prolong,uzatmak,B2
+promise,söz vermek,A1
+promote,terfi ettirmek,B1
+prompt,teşvik etmek,B2
+pronounce,telaffuz etmek,A2
+proof,proof okuması yapmak,B2
+prop,desteklemek,B1
+propagate,yaymak,C1
+propel,ilerletmek,C1
+prophesy,kehanet etmek,C1
+proportion,orantılamak,B2
+propose,öneride bulunmak,A2
+proscribe,yasaklamak,C1
+prosecute,kovuşturmak,B2
+proselytize,davet etmek,C2
+prospect,aramak,B2
+prosper,refah içinde olmak,B2
+prostitute,fahişelik yapmak,C1
+protect,korumak,A1
+protest,protesto etmek,A2
+protract,uzatmak,C1
+protrude,dışarı çıkmak,C1
+prove,kanıtlamak,A2
+provide,sağlamak,A2
+provoke,kışkırtmak,B2
+prowl,dolaşmak,C1
+prune,budamak,C1
+pry,gözetlemek,C1
+publicize,duyurmak,B2
+pucker,büzüşmek,C1
+puff,üflemek,B1
+pull,çekmek,A1
+pulp,lapa haline getirmek,C1
+pulsate,çarpmak,C1
+pulverize,toz haline getirmek,C1
+pump,pompa ile basmak,B1
+punch,yumruk atmak,B1
+punish,cezalandırmak,A2
+purchase,satın almak,A2
+purge,tasfiye etmek,C1
+purify,arındırmak,B2
+purport,iddia etmek,C1
+purr,mırıldamak,B1
+pursue,peşinden gitmek,B1
+push,itmek,A1
+put,koymak,A1
+puzzle,şaşırtmak,B1
+quack,vaklamak,B1
+quadruple,dört katına çıkmak,C1
+quaff,kafayı çekmek,C1
+quail,ürkmek,C1
+quake,titremek,B1
+qualify,nitelik kazanmak,B1
+quantify,ölçmek,B2
+quarantine,karantinaya almak,B2
+quarrel,tartışmak,B1
+quarry,taş ocağı işletmek,C1
+quarter,konaklatmak,C1
+quash,bastırmak,C1
+quaver,titremek,C1
+queen,kraliçe gibi davranmak,C1
+quell,bastırmak,C1
+quench,söndürmek,B2
+query,sorgulamak,B2
+quest,araştırmak,C1
+queue,kuyruğa girmek,B1
+quibble,kelime oyunu yapmak,C1
+quicken,hızlandırmak,C1
+quiet,sakinleştirmek,B1
+quilt,yorgan dikmek,B1
+quip,esprili söz söylemek,C1
+quit,bırakmak,A2
+quiver,titremek,B2
+quiz,sorguya çekmek,B1
+quote,alıntı yapmak,A2
+race,yarışmak,A2
+rack,işkence etmek,C1
+radiate,yaymak,B2
+raffle,piyango çekmek,B1
+raft,salla gitmek,B1
+rage,öfkelenmek,B2
+raid,baskın yapmak,B1
+rail,şikayet etmek,C1
+rain,yağmur yağmak,A1
+raise,yükseltmek,A2
+rake,tırmıklamak,B1
+rally,toplanmak (destek),B2
+ram,çarpmak,C1
+ramble,amaçsızca dolaşmak,C1
+ramp,rampa yapmak,B1
+rampage,öfkeyle dolaşmak,C1
+ranch,çiftlik işletmek,B1
+randomize,rastgele seçmek,C1
+range,çeşitlilik göstermek,B1
+rank,sıralamak,B1
+ransack,altını üstüne getirmek,C1
+ransom,fidye istemek,C1
+rant,bağırıp çağırmak,C1
+rap,tıklatmak,B1
+rape,tecavüz etmek,C1
+rasp,törpülemek,C1
+rat,ispiyonlamak,C1
+rate,değerlendirmek,A2
+ratify,onaylamak,B2
+ration,paylamak,B2
+rationalize,akılcı hale getirmek,C1
+rattle,gürültü yapmak,B1
+ravage,tahrip etmek,C1
+rave,çılgınca konuşmak,C1
+ravel,çözmek,C1
+ravish,büyülemek,C1
+raze,yıkmak,C1
+razz,alay etmek,C1
+reach,ulaşmak,A1
+react,tepki vermek,A2
+read,okumak,A1
+realize,farkına varmak,A2
+reap,biçmek,B2
+rear,yetiştirmek,B2
+reason,akıl yürütmek,B1
+reassure,güven vermek,B2
+rebate,iade etmek,B2
+rebel,isyan etmek,B1
+rebound,sekerek geri gelmek,B2
+rebuff,reddetmek,C1
+rebuild,yeniden inşa etmek,B1
+rebuke,azarlamak,B2
+rebut,çürütmek,C1
+recall,hatırlamak,B1
+recant,sözünden dönmek,C1
+recap,özetlemek,B2
+recapture,geri almak,C1
+recede,geri çekilmek,B2
+receive,almak,A1
+recess,mola vermek,B2
+recite,ezberden okumak,B1
+reckon,hesaplamak,B2
+reclaim,geri almak,B2
+recline,yaslanmak,C1
+recognize,tanımak,A2
+recoil,geri çekilmek,C1
+recollect,hatırlamak,B2
+recommend,tavsiye etmek,A2
+reconcile,uzlaştırmak,B2
+reconnoiter,keşif yapmak,C2
+reconsider,tekrar düşünmek,B2
+reconstruct,yeniden inşa etmek,B2
+record,kaydetmek,A1
+recount,ayrıntılı anlatmak,B2
+recoup,karşılamak,C1
+recover,iyileşmek,A2
+recreate,yeniden yaratmak,B2
+recruit,işe almak,B1
+rectify,düzeltmek,B2
+recuperate,iyileşmek,C1
+recur,tekrarlanmak,B2
+recycle,geri dönüştürmek,A2
+redden,kızarmak,B1
+redeem,kurtarmak,B2
+redirect,tekrar yönlendirmek,B2
+redistribute,yeniden dağıtmak,B2
+redress,tazmin etmek,C1
+reduce,azaltmak,A2
+reel,bocalamak,C1
+refer,atıfta bulunmak,A2
+refine,arıtmak,B2
+reflect,yansıtmak,A2
+refocus,tekrar odaklanmak,B2
+reform,reform yapmak,B2
+refrain,kaçınmak,B2
+refresh,tazelemek,B1
+refrigerate,soğutmak,B1
+refund,geri ödemek,B1
+refurbish,yenilemek,B2
+refuse,reddetmek,A1
+refute,çürütmek,B2
+regain,geri kazanmak,B2
+regale,eğlendirmek,C1
+regard,değerlendirmek,B1
+regenerate,yenilemek,C1
+regiment,düzenlemek,C1
+register,kaydolmak,A2
+regress,gerilemek,C1
+regret,pişman olmak,A2
+regulate,düzenlemek,B1
+rehabilitate,rehabilite etmek,B2
+rehearse,prova yapmak,B1
+reign,hüküm sürmek,B2
+reimburse,geri ödemek,B2
+rein, dizginlemek,B2
+reinforce, güçlendirmek,B1
+reinstall, yeniden yüklemek,B2
+reiterate, tekrarlamak,B2
+reject, reddetmek,A2
+rejoice, sevinmek,B2
+rejoin, yeniden katılmak,C1
+rejuvenate, gençleştirmek,C1
+relapse, nüksetmek,C1
+relate, ilişkilendirmek,A2
+relax, rahatlamak,A1
+relay, iletmek,B2
+release, serbest bırakmak,A2
+relegate, alt sıraya koymak,C1
+relent, yumuşamak,C1
+relieve, rahatlatmak,B1
+relinquish, vazgeçmek,C1
+relish, zevk almak,B2
+relocate, taşınmak,B2
+reluct, isteksiz olmak,C1
+rely, güvenmek,A2
+remain, kalmak,A1
+remand, gözaltına almak,C1
+remark, belirtmek,B1
+remember, hatırlamak,A1
+remind, hatırlatmak,A2
+remit, göndermek,C1
+remove, kaldırmak,A2
+render, sunmak,B2
+renew, yenilemek,B1
+renounce, reddetmek,C1
+renovate, yenilemek,B2
+renown, ün kazanmak,C1
+repair, tamir etmek,A1
+repeal, yürürlükten kaldırmak,B2
+repeat, tekrarlamak,A1
+repel, itmek,B2
+repent, pişman olmak,B2
+replace, yerine koymak,A2
+replenish, yenilemek,C1
+replicate, kopyalamak,B2
+report, rapor vermek,A1
+repose, dinlenme,C1
+represent, temsil etmek,A2
+repress, bastırmak,C1
+reprieve, ertelemek,C1
+reprimand, azarlamak,C1
+reprint, yeniden basmak,B2
+reproach, azarlamak,B2
+reproduce, çoğaltmak,B1
+repudiate, reddetmek,C1
+repulse, itmek,C1
+request, rica etmek,A2
+require, gerektirmek,A2
+rescue, kurtarmak,A2
+research, araştırma yapmak,A2
+resemble, benzemek,A2
+resent, gücenmek,B2
+reserve, ayırtmak,A2
+reside, ikamet etmek,B2
+resign, istifa etmek,B1
+resist, direnmek,B1
+resolve, çözmek,B1
+resort, başvurmak,B2
+respect, saygı duymak,A1
+respond, yanıt vermek,A2
+rest, dinlenmek,A1
+restore, restore etmek,B1
+restrain, zaptetmek,B2
+restrict, kısıtlamak,B1
+result, sonuçlanmak,A1
+resume, devam etmek,B1
+retail, perakende satmak,B1
+retain, muhafaza etmek,B2
+retaliate, intikam almak,C1
+retard, yavaşlatmak,C1
+retire, emekli olmak,A2
+retort, karşılık vermek,C1
+retract, geri çekmek,C1
+retreat, geri çekilmek,B1
+retrieve, geri almak,B2
+return, geri dönmek,A1
+reveal, ortaya çıkarmak,A2
+revel, eğlenmek,C1
+revenge, intikam almak,B2
+revere, hürmet etmek,C1
+reverse, tersine çevirmek,B1
+review, gözden geçirmek,A2
+revile, hakaret etmek,C1
+revise, gözden geçirmek,B1
+revive, canlandırmak,B2
+revoke, geri almak,B2
+revolt, isyan etmek,B2
+revolve, dönmek,B1
+reward, ödüllendirmek,A2
+rhyme, kafiyeli olmak,B1
+rid, kurtarmak,B1
+riddle, delik deşik etmek,C1
+ride, binmek,A1
+ridge, sırt oluşturmak,C1
+ridicule, alay etmek,B2
+riffle, hızlıca karıştırmak,C1
+rifle, yağmalamak,C1
+rig, donatmak (gemi),C1
+right, düzeltmek,A2
+rim, kenarını çevirmek,C1
+ring, çalmak (zil),A1
+rinse, çalkalamak,B1
+riot, isyan çıkarmak,B1
+rip, yırtmak,B1
+ripen, olgunlaşmak,B2
+ripple, dalgalanmak,C1
+rise, yükselmek,A2
+risk, riske atmak,A2
+rival, rekabet etmek,B1
+rivet, perçinlemek,C1
+roam, dolaşmak,B2
+roar, kükremek,B1
+roast, kavurmak,B1
+rob, soymak,A2
+rock, sallamak,A2
+rod, çubukla dövmek,C1
+roll, yuvarlamak,A1
+romance, kur yapmak,B2
+roost, tünemek,C1
+root, kök salmak,B2
+rope, iple bağlamak,B1
+rot, çürümek,B1
+rotate, döndürmek,B1
+round, yuvarlamak,A2
+rouse, uyandırmak,C1
+route, yönlendirmek,B1
+row, kürek çekmek,A2
+rub, ovmak,A2
+ruffle, tüy karıştırmak,C1
+ruin, mahvetmek,B1
+rule, yönetmek,A2
+rumble, gürlemek,B1
+ruminate, derin düşünmek,C1
+rummage, karıştırmak,C1
+rumor, söylenti yaymak,B2
+run, koşmak,A1
+rupture, yırtılmak,C1
+rush, acele etmek,A2
+rust, paslanmak,B1
+rustle, hışırdamak,B1
+sabotage, sabotaj yapmak,B2
+sack, kovmak,B2
+sacrifice, feda etmek,B1
+saddle, eyerlemek,B1
+safeguard, korumak,B2
+sag, sarkmak,B2
+sail, yelken açmak,A2
+sally, çıkış yapmak,C1
+salt, tuzlamak,A2
+salute, selamlamak,B1
+salvage, kurtarmak,B2
+sample, örneklemek,B1
+sanction, yaptırım uygulamak,B2
+sand, zımparalamak,B1
+sandwich, sıkıştırmak,B2
+sap, zayıflatmak,C1
+sate, doyurmak,C1
+satiate, doyurmak,C1
+satirize, alay etmek,C1
+satisfy, tatmin etmek,A2
+saturate, doyurmak,B2
+saunter, ağır ağır yürümek,C1
+savage, saldırmak,C1
+save, kurtarmak,A1
+savor, tadını çıkarmak,B2
+saw, testereyle kesmek,B1
+say, söylemek,A1
+scald, haşlamak,B1
+scale, ölçeklendirmek,B1
+scamper, koşuşturmak,C1
+scan, taramak,B1
+scare, korkutmak,A2
+scatter, dağıtmak,B1
+scavenge, leş toplamak,C1
+schedule, programlamak,A2
+school, okul,C1
+scoff, alay etmek,B2
+scold, azarlamak,B1
+scoop, kepçelemek,B1
+scorch, kavurmak,B1
+score, skor yapmak,A2
+scorn, küçümsemek,B2
+scour, araştırmak,C1
+scout, keşif yapmak,B1
+scowl, kaş çatmak,B1
+scramble, tırmanmak,B2
+scrap, hurdaya çıkarmak,B2
+scrape, kazımak,B1
+scratch, kaşımak,A2
+scream, çığlık atmak,A2
+screech, çığlık atmak,B1
+screen, taramak,B1
+screw, vida,B1

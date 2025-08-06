@@ -6,22 +6,23 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
-import com.osmantopal.entities.DailyWordBot;
+import com.osmantopal.bot.DailyWordBot;
 import com.osmantopal.entities.EnglishWord;
 import com.osmantopal.entities.Subscriber;
-import com.osmantopal.repository.IEnglishWordRepository;
-import com.osmantopal.repository.ISubscriberRepository;
+import com.osmantopal.repository.EnglishWordRepository;
+import com.osmantopal.repository.SubscriberRepository;
 import com.osmantopal.services.IEnglishWordService;
 
 @Service
 public class EnglishWordServiceImpl implements IEnglishWordService{
 
     @Autowired
-    private IEnglishWordRepository wordRepository;
+    private EnglishWordRepository wordRepository;
 
     @Autowired
-    private ISubscriberRepository subscriberRepository;
+    private SubscriberRepository subscriberRepository;
 
+    @Autowired
     private DailyWordBot telegramBot;
 
     @Override
@@ -32,8 +33,8 @@ public class EnglishWordServiceImpl implements IEnglishWordService{
     @Scheduled(cron = "0 0 9 * * ?")
     public void sendDailyWords() {
         List<Subscriber> subscribers = subscriberRepository.findAll();
-        List<EnglishWord> words = wordRepository.findRandomWords(5); // 5 rastgele kelime
-        
+        List<EnglishWord> words = wordRepository.findRandomWords(20);
+
         subscribers.forEach(subscriber -> {
             StringBuilder message = new StringBuilder("📅 Günün Kelimeleri:\n\n");
             
@@ -42,6 +43,9 @@ public class EnglishWordServiceImpl implements IEnglishWordService{
                     .append(word.getEnglishWord())
                     .append(": ")
                     .append(word.getTurkishMeaning())
+                    .append(" (Seviye: ")
+                    .append(word.getWordLevel())
+                    .append(")")
                     .append("\n\n");
             });
             

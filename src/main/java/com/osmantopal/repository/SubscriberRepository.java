@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 import com.osmantopal.entities.Subscriber;
 
 @Repository
-public interface ISubscriberRepository extends JpaRepository<Subscriber, Long>{
+public interface SubscriberRepository extends JpaRepository<Subscriber, Long>{
     
 }

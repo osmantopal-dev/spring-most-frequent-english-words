@@ -1,4 +1,4 @@
-package com.osmantopal.entities;
+package com.osmantopal.bot;
 
 
 import java.time.LocalDateTime;
@@ -12,14 +12,15 @@ import org.telegram.telegrambots.meta.api.objects.User;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
-import com.osmantopal.repository.ISubscriberRepository;
+import com.osmantopal.entities.Subscriber;
+import com.osmantopal.repository.SubscriberRepository;
 
 
 @Component
 public class DailyWordBot extends TelegramLongPollingBot {
 
     @Autowired
-    private ISubscriberRepository subscriberRepository;
+    private SubscriberRepository subscriberRepository;
 
     @Value("${telegram.bot.username}")
     private String username;
@@ -48,24 +49,29 @@ public class DailyWordBot extends TelegramLongPollingBot {
 
     @Override
     public void onUpdateReceived(Update update) {
+        
         if (update.hasMessage() && update.getMessage().hasText()) {
             String text = update.getMessage().getText();
             Long chatId = update.getMessage().getChatId();
-
-            
-            User telegramUser = update.getMessage().getFrom(); 
-            String username = telegramUser.getUserName(); 
-            
-            if (text.equals("/start")) {
-                Subscriber subscriber = new Subscriber();
-                subscriber.setChatId(chatId);
-                subscriber.setUsername(username);
-                subscriber.setSubscribeDate(LocalDateTime.now());
+            if (!subscriberRepository.existsById(chatId)) {
+                User telegramUser = update.getMessage().getFrom(); 
+                String username = telegramUser.getUserName(); 
                 
-                subscriberRepository.save(subscriber);
-                
-                sendMessage(chatId, "Abonelik başarılı! Her gün 09:00'da kelimeler gelecek.");
+                if (text.equals("/start")) {
+                    Subscriber subscriber = new Subscriber();
+                    subscriber.setChatId(chatId);
+                    subscriber.setUsername(username);
+                    subscriber.setSubscribeDate(LocalDateTime.now());
+                    
+                    subscriberRepository.save(subscriber);
+                    
+                    sendMessage(chatId, "Abonelik başarılı! Her gün 09:00'da kelimeler gelecek.");
+                }
+            }else{
+                sendMessage(chatId, "Zaten abonesiniz! Her gün 09:00'da kelimeler alacaksınız.");
             }
+            
+            
         }
     }
 
