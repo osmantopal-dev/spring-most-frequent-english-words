@@ -36,24 +36,9 @@ public class EnglishWordServiceImpl implements IEnglishWordService{
         List<EnglishWord> words = wordRepository.findRandomWords(20);
 
         subscribers.forEach(subscriber -> {
-            StringBuilder message = new StringBuilder("📅 Günün Kelimeleri:\n\n");
-            
-            words.forEach(word -> {
-                message.append("🔹 ")
-                    .append(word.getEnglishWord())
-                    .append(": ")
-                    .append(word.getTurkishMeaning())
-                    .append(" (Seviye: ")
-                    .append(word.getWordLevel())
-                    .append(")")
-                    .append("\n\n");
-            });
-            
-            telegramBot.sendMessage(subscriber.getChatId(), message.toString());
+            telegramBot.sendWords(subscriber.getChatId(), words);
         });
     }
 
-    
-    
 
 }
