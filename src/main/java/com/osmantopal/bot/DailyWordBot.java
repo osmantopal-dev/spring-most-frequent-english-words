@@ -1,5 +1,6 @@
 package com.osmantopal.bot;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
@@ -13,6 +14,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import com.osmantopal.entities.EnglishWord;
 import com.osmantopal.entities.Subscriber;
 import com.osmantopal.repository.SubscriberRepository;
+import com.osmantopal.services.IBotService;
 import com.osmantopal.services.IQuizService;
 
 import java.time.LocalDateTime;
@@ -22,10 +24,13 @@ import java.util.List;
 import java.util.Map;
 
 @Component
-public class DailyWordBot extends TelegramLongPollingBot {
+public class DailyWordBot extends TelegramLongPollingBot implements IBotService {
 
     private final SubscriberRepository subscriberRepository;
+
+    @Autowired
     private IQuizService quizService;
+
     private final Map<Long, List<EnglishWord>> userWords = new HashMap<>();
     private final Map<Long, Integer> userWordIndex = new HashMap<>();
 
@@ -35,11 +40,10 @@ public class DailyWordBot extends TelegramLongPollingBot {
     @Value("${telegram.bot.token}")
     private String token;
 
-    public DailyWordBot(
-            @Value("${telegram.bot.token}") String token,
-            SubscriberRepository subscriberRepository) {
+    public DailyWordBot(@Value("${telegram.bot.token}") String token, @Value("${telegram.bot.username}") String username, SubscriberRepository subscriberRepository) {
         super(token);
         this.subscriberRepository = subscriberRepository;
+        this.username = username;
     }
 
     @Override
@@ -105,8 +109,6 @@ public class DailyWordBot extends TelegramLongPollingBot {
             userWordIndex.put(chatId, index + 1);
         } else {
             sendQuizStartMessage(chatId);
-            userWords.remove(chatId);
-            userWordIndex.remove(chatId);
         }
     }
 
@@ -155,7 +157,7 @@ public class DailyWordBot extends TelegramLongPollingBot {
     }
 
 
-    private void sendMessageWithKeyboard(Long chatId, String text, InlineKeyboardMarkup keyboard) {
+    public void sendMessageWithKeyboard(Long chatId, String text, InlineKeyboardMarkup keyboard) {
         SendMessage message = new SendMessage();
         message.setChatId(chatId.toString());
         message.setText(text);

@@ -21,4 +21,8 @@ public interface EnglishWordRepository extends JpaRepository<EnglishWord, Intege
           nativeQuery = true)
     boolean existsByWord(@Param("word") String word);
 
+      @Query(value = "SELECT * FROM english_words WHERE id != :id ORDER BY RANDOM() LIMIT :count", 
+              nativeQuery = true)
+    List<EnglishWord> findRandomWordsExcluding(Integer id, @Param("count") int i);
+
 }

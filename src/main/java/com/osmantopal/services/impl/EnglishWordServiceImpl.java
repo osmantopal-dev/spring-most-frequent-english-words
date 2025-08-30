@@ -33,7 +33,7 @@ public class EnglishWordServiceImpl implements IEnglishWordService{
     @Scheduled(cron = "0 0 9 * * ?")
     public void sendDailyWords() {
         List<Subscriber> subscribers = subscriberRepository.findAll();
-        List<EnglishWord> words = wordRepository.findRandomWords(20);
+        List<EnglishWord> words = wordRepository.findRandomWords(5);
 
         subscribers.forEach(subscriber -> {
             telegramBot.sendWords(subscriber.getChatId(), words);
