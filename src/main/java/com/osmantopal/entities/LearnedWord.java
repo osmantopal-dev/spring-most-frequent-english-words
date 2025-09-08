@@ -27,4 +27,5 @@ public class LearnedWord {
     protected void onCreate() {
         learnedDate = LocalDateTime.now();
     }
+    
 }

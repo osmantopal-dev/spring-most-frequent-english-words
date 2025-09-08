@@ -13,9 +13,11 @@ import org.telegram.telegrambots.meta.api.objects.replykeyboard.InlineKeyboardMa
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.InlineKeyboardButton;
 
 import com.osmantopal.entities.EnglishWord;
-
+import com.osmantopal.entities.LearnedWord;
 import com.osmantopal.model.QuizSession;
 import com.osmantopal.repository.EnglishWordRepository;
+import com.osmantopal.repository.LearnedWordRepository;
+import com.osmantopal.repository.SubscriberRepository;
 import com.osmantopal.services.IBotService;
 import com.osmantopal.services.IQuizService;
 
@@ -25,6 +27,11 @@ public class QuizServiceImpl implements IQuizService{
     @Autowired
     private EnglishWordRepository englishWordRepository;
 
+    @Autowired
+    private SubscriberRepository subscriberRepository;
+
+    @Autowired 
+    private LearnedWordRepository learnedWordRepository;
 
     @Autowired
     @Lazy
@@ -52,6 +59,7 @@ public class QuizServiceImpl implements IQuizService{
             InlineKeyboardMarkup keyboard = createQuizKeyboard(currentWord.getId(), options);
             
             botService.sendMessageWithKeyboard(chatId, question, keyboard);
+
         } else {
             finishQuiz(chatId, session);
         }
@@ -88,6 +96,7 @@ public class QuizServiceImpl implements IQuizService{
         return markup;
     }
 
+    @Override
     public void checkAnswer(Long chatId, Integer wordId, String userAnswer) {
         QuizSession session = activeQuizzes.get(chatId);
         if (session == null) return;
@@ -97,7 +106,11 @@ public class QuizServiceImpl implements IQuizService{
         
         if (isCorrect) {
             botService.sendMessage(chatId, "✅ Doğru!");
-            
+            LearnedWord learnedWord = new LearnedWord();
+            learnedWord.setWord(word);
+            // learnedWord.setLearnedDate(java.time.LocalDateTime.now()); date  sonra eklenecek
+            learnedWord.setSubscriber(subscriberRepository.findByChatId(chatId)); 
+            learnedWordRepository.save(learnedWord); 
         } else {
             botService.sendMessage(chatId, "❌ Yanlış! Doğrusu: " + word.getTurkishMeaning());
 

@@ -89,6 +89,14 @@ public class DailyWordBot extends TelegramLongPollingBot implements IBotService 
         else if ("start_quiz".equals(callbackData)) {
             quizService.startQuiz(chatId, userWords.get(chatId));
         }
+        else if (callbackData.startsWith("quiz_")) {
+        // Format: quiz_{wordId}_{userAnswer}
+        String[] parts = callbackData.split("_");
+        Integer wordId = Integer.parseInt(parts[1]);
+        String userAnswer = parts[2];
+        
+        quizService.checkAnswer(chatId, wordId, userAnswer);
+    }
     }
 
     public void sendWords(Long chatId, List<EnglishWord> words) {

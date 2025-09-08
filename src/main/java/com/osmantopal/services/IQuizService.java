@@ -11,5 +11,6 @@ public interface IQuizService {
 
     public void startQuiz(Long chatId, List<EnglishWord> words);
     public void sendNextQuestion(Long chatId, QuizSession session);
+    public void checkAnswer(Long chatId, Integer wordId, String userAnswer);
     
 }

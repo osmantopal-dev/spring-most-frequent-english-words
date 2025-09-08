@@ -6,7 +6,9 @@ import org.springframework.stereotype.Repository;
 import com.osmantopal.entities.LearnedWord;
 
 @Repository
-public interface LearnedWordsRepository extends JpaRepository<LearnedWord, Long> {
+public interface LearnedWordRepository extends JpaRepository<LearnedWord, Long> {
 
     
+    
+
 }
