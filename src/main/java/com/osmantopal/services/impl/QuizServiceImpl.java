@@ -41,6 +41,7 @@ public class QuizServiceImpl implements IQuizService{
 
     private final Map<Long, QuizSession> activeQuizzes = new HashMap<>();
 
+    @Override
     public void startQuiz(Long chatId, List<EnglishWord> words) {
 
         QuizSession session = new QuizSession(words, 0);
@@ -65,7 +66,8 @@ public class QuizServiceImpl implements IQuizService{
         }
     }
 
-    private List<String> generateOptions(EnglishWord correctWord) {
+    @Override
+    public List<String> generateOptions(EnglishWord correctWord) {
         List<String> options = new ArrayList<>();
         options.add(correctWord.getTurkishMeaning()); // Doğru cevap
         
@@ -78,7 +80,8 @@ public class QuizServiceImpl implements IQuizService{
         return options;
     }
 
-    private InlineKeyboardMarkup createQuizKeyboard(Integer wordId, List<String> options) {
+    @Override
+    public InlineKeyboardMarkup createQuizKeyboard(Integer wordId, List<String> options) {
         List<List<InlineKeyboardButton>> keyboard = new ArrayList<>();
         
         for (int i = 0; i < options.size(); i++) {
@@ -111,15 +114,17 @@ public class QuizServiceImpl implements IQuizService{
             // learnedWord.setLearnedDate(java.time.LocalDateTime.now()); date  sonra eklenecek
             learnedWord.setSubscriber(subscriberRepository.findByChatId(chatId)); 
             learnedWordRepository.save(learnedWord); 
+            // englishWordRepository.delete(word);
+
         } else {
             botService.sendMessage(chatId, "❌ Yanlış! Doğrusu: " + word.getTurkishMeaning());
-
         }
         
         sendNextQuestion(chatId, session);
     }
 
-    private void finishQuiz(Long chatId, QuizSession session) {
+    @Override
+    public void finishQuiz(Long chatId, QuizSession session) {
         String result = "🎉 Quiz tamamlandı!\n";
         
         botService.sendMessage(chatId, result);
