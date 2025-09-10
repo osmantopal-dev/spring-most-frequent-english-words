@@ -114,7 +114,7 @@ public class QuizServiceImpl implements IQuizService{
             // learnedWord.setLearnedDate(java.time.LocalDateTime.now()); date  sonra eklenecek
             learnedWord.setSubscriber(subscriberRepository.findByChatId(chatId)); 
             learnedWordRepository.save(learnedWord); 
-            // englishWordRepository.delete(word);
+            englishWordRepository.delete(word);
 
         } else {
             botService.sendMessage(chatId, "❌ Yanlış! Doğrusu: " + word.getTurkishMeaning());
