@@ -3,9 +3,8 @@ name: Build and Push Docker image
 on:
   push:
     branches:
-      - main   # sadece main branch'e push olduğunda çalışır
-      # istersen tüm branch'ler için "*" yazabilirsin
-  workflow_dispatch:  # manuel tetikleme için eklendi
+      - main
+  workflow_dispatch:
 
 jobs:
   docker:
@@ -21,10 +20,13 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
       - name: Build and push Docker image
         uses: docker/build-push-action@v4
         with:
           context: .
           push: true
-          platforms: linux/arm64
+          platforms: linux/amd64,linux/arm64   # Multi-arch build
           tags: ${{ secrets.DOCKER_USERNAME }}/spring-most-frequent-english-words:latest
