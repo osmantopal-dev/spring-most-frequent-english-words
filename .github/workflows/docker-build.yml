@@ -5,6 +5,7 @@ on:
     branches:
       - main   # sadece main branch'e push olduğunda çalışır
       # istersen tüm branch'ler için "*" yazabilirsin
+  workflow_dispatch:  # manuel tetikleme için eklendi
 
 jobs:
   docker:
@@ -25,4 +26,5 @@ jobs:
         with:
           context: .
           push: true
+          platforms: linux/amd64,linux/arm64
           tags: ${{ secrets.DOCKER_USERNAME }}/spring-most-frequent-english-words:latest
