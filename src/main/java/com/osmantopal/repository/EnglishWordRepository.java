@@ -13,9 +13,15 @@ import com.osmantopal.entities.EnglishWord;
 public interface EnglishWordRepository extends JpaRepository<EnglishWord, Integer>{
     
 
-    @Query(value = "SELECT * FROM english_words ORDER BY RANDOM() LIMIT :count", 
-          nativeQuery = true)
-    List<EnglishWord> findRandomWords(@Param("count") int count);
+    @Query(value = """
+        SELECT * FROM english_words ew
+        WHERE ew.id NOT IN (
+            SELECT lw.word_id FROM learned_words lw WHERE lw.subscriber_id = :subscriber_id
+        )
+        ORDER BY RANDOM()
+        LIMIT :limit
+        """, nativeQuery = true)
+    List<EnglishWord> findRandomWordsNotLearnedByUser(@Param("subscriber_id") Long subscriber_id, @Param("limit") int limit);
 
     @Query(value = "SELECT COUNT(*) > 0 FROM english_words WHERE english_word = :word", 
           nativeQuery = true)
